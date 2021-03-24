@@ -1,0 +1,19 @@
+{
+	"manifest_version": 2,
+  "name": "Truck Team Helper 3",
+  "version": "3.0",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "content_scripts": [
+  {
+    "matches": [
+      "https://www8.sylectus.com/Orders/ManageOrders.aspx*"
+    ],
+    "js": ["content.js"]
+  }
+],
+"browser_action": {
+    
+  }
+}

@@ -1,0 +1,7712 @@
+{
+  "TTRecords": [
+    {
+      "date": "3.11.2020",
+      "records": [
+        {
+          "time": "03/12/2020",
+          "orderNumber": "79505",
+          "company": "Carolina Logistics",
+          "cities": "MOUNT PROSPECT, IL - TRENTON, NJ",
+          "rate": "815"
+        },
+        {
+          "time": "03/12/2020",
+          "orderNumber": "79503",
+          "company": "Carolina Logistics",
+          "cities": "HOWELL, MI - KANSAS CITY, MO",
+          "rate": "750"
+        },
+        {
+          "time": "03/11/2020",
+          "orderNumber": "79511",
+          "company": "Carolina Logistics",
+          "cities": "ATHENS, AL - ROMULUS, MI",
+          "rate": "580"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "date": "3.17.2020",
+      "records": [
+        {
+          "time": "03/18/2020",
+          "orderNumber": "80003",
+          "company": "Carolina Logistics",
+          "cities": "EAST CHICAGO, IN - CHAMBERSBURG, PA",
+          "rate": "900"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "date": "3.18.2020",
+      "records": [
+        {
+          "time": "03/19/2020",
+          "orderNumber": "80095",
+          "company": "Carolina Logistics",
+          "cities": "ONTARIO, CA - ARLINGTON, AZ",
+          "rate": "600"
+        },
+        {
+          "time": "03/19/2020",
+          "orderNumber": "80096",
+          "company": "Carolina Logistics",
+          "cities": "GRAND RAPIDS, MI - TONAWANDA, NY",
+          "rate": "600"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "date": "3.19.2020",
+      "records": [
+        {
+          "time": "03/19/2020",
+          "orderNumber": "80180",
+          "company": "Carolina Logistics",
+          "cities": "PIEDMONT, SC - CALGARY, AB",
+          "rate": "2750"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "date": "6.3.2020",
+      "records": [
+        {
+          "time": "06/03/2020",
+          "orderNumber": "85138",
+          "company": "Carolina Logistics",
+          "cities": "CHICAGO, IL - WEST CHESTER, PA",
+          "rate": "1500"
+        },
+        {
+          "time": "06/02/2020",
+          "orderNumber": "85139",
+          "company": "Carolina Logistics",
+          "cities": "OWOSSO, MI - SUPERIOR, WI",
+          "rate": "1100"
+        },
+        {
+          "time": "06/01/2020",
+          "orderNumber": "85039",
+          "company": "Carolina Logistics",
+          "cities": "DANIELSVILLE, PA - ROARING SPRING, PA",
+          "rate": "300"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "date": "6.4.2020",
+      "records": [
+        {
+          "time": "06/04/2020",
+          "orderNumber": "85255",
+          "company": "Carolina Logistics",
+          "cities": "ROME, NY - ORWIGSBURG, PA",
+          "rate": "400"
+        },
+        {
+          "time": "06/04/2020",
+          "orderNumber": "85256",
+          "company": "Carolina Logistics",
+          "cities": "CHATTANOOGA, TN - CAPITOL HEIGHTS, MD",
+          "rate": "800"
+        },
+        {
+          "time": "06/04/2020",
+          "orderNumber": "85258",
+          "company": "Carolina Logistics",
+          "cities": "STIGLER, OK - TEMPLE, TX",
+          "rate": "450"
+        },
+        {
+          "time": "06/04/2020",
+          "orderNumber": "85268",
+          "company": "Carolina Logistics",
+          "cities": "SPRINGFIELD, OH - HOUSTON, TX",
+          "rate": "1400"
+        },
+        {
+          "time": "06/04/2020",
+          "orderNumber": "85290",
+          "company": "Carolina Logistics",
+          "cities": "TAMPA, FL - CHARLOTTE, NC",
+          "rate": "900"
+        },
+        {
+          "time": "06/05/2020",
+          "orderNumber": "85313",
+          "company": "Carolina Logistics",
+          "cities": "LAKE ZURICH, IL - GRAVENHURST, ON",
+          "rate": "1300"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "date": "6.5.2020",
+      "records": [
+        {
+          "time": "06/05/2020",
+          "orderNumber": "85357",
+          "company": "Carolina Logistics",
+          "cities": "SAINT LOUIS, MO - CAROL STREAM, IL",
+          "rate": "700"
+        },
+        {
+          "time": "06/05/2020",
+          "orderNumber": "85363",
+          "company": "Carolina Logistics",
+          "cities": "HEBRON, KY - CAROL STREAM, IL",
+          "rate": "700"
+        },
+        {
+          "time": "06/05/2020",
+          "orderNumber": "85365",
+          "company": "Carolina Logistics",
+          "cities": "STERLING, VA - STEVENSVILLE, MD",
+          "rate": "500"
+        },
+        {
+          "time": "06/05/2020",
+          "orderNumber": "85372",
+          "company": "Carolina Logistics",
+          "cities": "GREENVILLE, NC - SOUTHOLD, NY",
+          "rate": "1050"
+        },
+        {
+          "time": "06/06/2020",
+          "orderNumber": "85405",
+          "company": "Carolina Logistics",
+          "cities": "REDMOND, WA - MOUNT VERNON, OH",
+          "rate": "1685"
+        },
+        {
+          "time": "06/05/2020",
+          "orderNumber": "85409",
+          "company": "Carolina Logistics",
+          "cities": "NEW BOSTON, MI - GREENVILLE, NC",
+          "rate": "1200"
+        },
+        {
+          "time": "06/05/2020",
+          "orderNumber": "85412",
+          "company": "Carolina Logistics",
+          "cities": "CHURCHVILLE, NY - PERRY, GA",
+          "rate": "880"
+        },
+        {
+          "time": "06/08/2020",
+          "orderNumber": "85455",
+          "company": "Carolina Logistics",
+          "cities": "GREENVILLE, NC - VERO BEACH, FL",
+          "rate": "800"
+        },
+        {
+          "time": "06/09/2020",
+          "orderNumber": "85457",
+          "company": "Carolina Logistics",
+          "cities": "VERO BEACH, FL - GREENVILLE, NC",
+          "rate": "800"
+        },
+        {
+          "time": "06/08/2020",
+          "orderNumber": "85466",
+          "company": "Carolina Logistics",
+          "cities": "WALTHAM, MA - PLAINFIELD, IN",
+          "rate": "1100"
+        },
+        {
+          "time": "06/08/2020",
+          "orderNumber": "85471",
+          "company": "Carolina Logistics",
+          "cities": "TURLOCK, CA - PLEASANT GROVE, UT",
+          "rate": "1350"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "date": "6.8.2020",
+      "records": [
+        {
+          "time": "06/08/2020",
+          "orderNumber": "85495",
+          "company": "Carolina Logistics",
+          "cities": "COLUMBIA, SC - FORT OGLETHORPE, GA",
+          "rate": "650"
+        },
+        {
+          "time": "06/06/2020",
+          "orderNumber": "85507",
+          "company": "Carolina Logistics",
+          "cities": "REDMOND, WA - MOUNT VERNON, OH",
+          "rate": "0"
+        },
+        {
+          "time": "06/08/2020",
+          "orderNumber": "85512",
+          "company": "Carolina Logistics",
+          "cities": "EULESS, TX - FORT PAYNE, AL",
+          "rate": "750"
+        },
+        {
+          "time": "06/08/2020",
+          "orderNumber": "85522",
+          "company": "Carolina Logistics",
+          "cities": "BIG PRAIRIE, OH - HOLLAND, MI",
+          "rate": "650"
+        },
+        {
+          "time": "06/08/2020",
+          "orderNumber": "85542",
+          "company": "Carolina Logistics",
+          "cities": "NEW COLUMBIA, PA - STAFFORD, TX",
+          "rate": "2000"
+        },
+        {
+          "time": "06/08/2020",
+          "orderNumber": "85543",
+          "company": "Carolina Logistics",
+          "cities": "EARLIMART, CA - PORTLAND, OR",
+          "rate": "1100"
+        },
+        {
+          "time": "06/08/2020",
+          "orderNumber": "85562",
+          "company": "Carolina Logistics",
+          "cities": "LA PORTE, TX - ROCHESTER, NY",
+          "rate": "1800"
+        },
+        {
+          "time": "06/09/2020",
+          "orderNumber": "85565",
+          "company": "Carolina Logistics",
+          "cities": "NORTH DIGHTON, MA - NEW AUGUSTA, MS",
+          "rate": "2200"
+        },
+        {
+          "time": "06/08/2020",
+          "orderNumber": "85570",
+          "company": "Carolina Logistics",
+          "cities": "ATLANTA, GA - HUNTSVILLE, AL",
+          "rate": "400"
+        },
+        {
+          "time": "06/09/2020",
+          "orderNumber": "85572",
+          "company": "Carolina Logistics",
+          "cities": "SHELBY TOWNSHIP, MI - LAWRENCEVILLE, IL",
+          "rate": "1200"
+        },
+        {
+          "time": "06/09/2020",
+          "orderNumber": "85580",
+          "company": "Carolina Logistics",
+          "cities": "ATLANTA, GA - SWEPSONVILLE, NC",
+          "rate": "750"
+        },
+        {
+          "time": "06/08/2020",
+          "orderNumber": "85586",
+          "company": "Carolina Logistics",
+          "cities": "MARYLAND HEIGHTS, MO - WACO, TX",
+          "rate": "1000"
+        },
+        {
+          "time": "06/08/2020",
+          "orderNumber": "85600",
+          "company": "Carolina Logistics",
+          "cities": "EUGENE, OR - FARMERVILLE, LA",
+          "rate": "2650"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "date": "6.9.2020",
+      "records": [
+        {
+          "time": "06/09/2020",
+          "orderNumber": "85612",
+          "company": "Carolina Logistics",
+          "cities": "MIAMI, FL - BROOKSVILLE, FL",
+          "rate": "850"
+        },
+        {
+          "time": "06/10/2020",
+          "orderNumber": "85614",
+          "company": "Carolina Logistics",
+          "cities": "FORT WORTH, TX - GROVELAND, FL",
+          "rate": "1700"
+        },
+        {
+          "time": "06/09/2020",
+          "orderNumber": "85639",
+          "company": "Carolina Logistics",
+          "cities": "ODESSA, TX - KANSAS CITY, MO",
+          "rate": "1100"
+        },
+        {
+          "time": "06/09/2020",
+          "orderNumber": "85644",
+          "company": "Carolina Logistics",
+          "cities": "BELCAMP, MD - RONKONKOMA, NY",
+          "rate": "750"
+        },
+        {
+          "time": "06/09/2020",
+          "orderNumber": "85671",
+          "company": "Carolina Logistics",
+          "cities": "DEXTER, MO - TAYLOR, MI",
+          "rate": "685"
+        },
+        {
+          "time": "06/09/2020",
+          "orderNumber": "85683",
+          "company": "Carolina Logistics",
+          "cities": "WASHINGTON, NC - NORTH AUGUSTA, SC",
+          "rate": "700"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "date": "6.10.2020",
+      "records": [
+        {
+          "time": "06/10/2020",
+          "orderNumber": "85717",
+          "company": "Carolina Logistics",
+          "cities": "JACKSONVILLE, FL - YORKTOWN, VA",
+          "rate": "900"
+        },
+        {
+          "time": "06/11/2020",
+          "orderNumber": "85725",
+          "company": "Carolina Logistics",
+          "cities": "NEWPORT NEWS, VA - COMMERCE CITY, CO",
+          "rate": "4100"
+        },
+        {
+          "time": "06/10/2020",
+          "orderNumber": "85739",
+          "company": "Carolina Logistics",
+          "cities": "LOS ANGELES, CA - LAS VEGAS, NV",
+          "rate": "600"
+        },
+        {
+          "time": "06/10/2020",
+          "orderNumber": "85747",
+          "company": "Carolina Logistics",
+          "cities": "HOUSTON, TX - TIOGA, ND",
+          "rate": "2400"
+        },
+        {
+          "time": "06/10/2020",
+          "orderNumber": "85775",
+          "company": "Carolina Logistics",
+          "cities": "PATASKALA, OH - PIKEVILLE, KY",
+          "rate": "650"
+        },
+        {
+          "time": "06/11/2020",
+          "orderNumber": "85793",
+          "company": "Carolina Logistics",
+          "cities": "MEMPHIS, TN - KANSAS CITY, MO",
+          "rate": "750"
+        },
+        {
+          "time": "06/10/2020",
+          "orderNumber": "85796",
+          "company": "Carolina Logistics",
+          "cities": "PIKEVILLE, KY - PATASKALA, OH",
+          "rate": "450"
+        },
+        {
+          "time": "06/10/2020",
+          "orderNumber": "85797",
+          "company": "Carolina Logistics",
+          "cities": "WILLOW SPRINGS, IL - PASO ROBLES, CA",
+          "rate": "2300"
+        },
+        {
+          "time": "06/11/2020",
+          "orderNumber": "85811",
+          "company": "Carolina Logistics",
+          "cities": "PATASKALA, OH - ELKHART, IN",
+          "rate": "375"
+        },
+        {
+          "time": "06/11/2020",
+          "orderNumber": "85812",
+          "company": "Carolina Logistics",
+          "cities": "PATASKALA, OH - EDWARDSBURG, MI",
+          "rate": "375"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "date": "6.11.2020",
+      "records": [
+        {
+          "time": "06/11/2020",
+          "orderNumber": "85825",
+          "company": "Carolina Logistics",
+          "cities": "CORPUS CHRISTI, TX - MECHANICSBURG, PA",
+          "rate": "1800"
+        },
+        {
+          "time": "06/11/2020",
+          "orderNumber": "85829",
+          "company": "Carolina Logistics",
+          "cities": "BEDFORD, OH - CLEVELAND, OH",
+          "rate": "300"
+        },
+        {
+          "time": "06/11/2020",
+          "orderNumber": "85833",
+          "company": "Carolina Logistics",
+          "cities": "HEBRON, KY - HOLLAND, MI",
+          "rate": "550"
+        },
+        {
+          "time": "06/11/2020",
+          "orderNumber": "85838",
+          "company": "Carolina Logistics",
+          "cities": "LAPEL, IN - PISCATAWAY, NJ",
+          "rate": "1100"
+        },
+        {
+          "time": "06/11/2020",
+          "orderNumber": "85842",
+          "company": "Carolina Logistics",
+          "cities": "WEST DEPTFORD, NJ - TAUNTON, MA",
+          "rate": "900"
+        },
+        {
+          "time": "06/11/2020",
+          "orderNumber": "85856",
+          "company": "Carolina Logistics",
+          "cities": "SPRINGFIELD, OH - HOUSTON, TX",
+          "rate": "1350"
+        },
+        {
+          "time": "06/12/2020",
+          "orderNumber": "85873",
+          "company": "Carolina Logistics",
+          "cities": "MEDLEY, FL - PALM BEACH, FL",
+          "rate": "350"
+        },
+        {
+          "time": "06/12/2020",
+          "orderNumber": "85914",
+          "company": "Carolina Logistics",
+          "cities": "KANSAS CITY, MO - LAREDO, TX",
+          "rate": "900"
+        },
+        {
+          "time": "06/12/2020",
+          "orderNumber": "85923",
+          "company": "Carolina Logistics",
+          "cities": "PRINCETON, WI - MC LEAN, VA",
+          "rate": "2000"
+        },
+        {
+          "time": "06/12/2020",
+          "orderNumber": "85926",
+          "company": "Carolina Logistics",
+          "cities": "COLUMBUS, OH - SALT LAKE CITY, UT",
+          "rate": "1800"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "date": "6.12.2020",
+      "records": [
+        {
+          "time": "06/12/2020",
+          "orderNumber": "85940",
+          "company": "Carolina Logistics",
+          "cities": "SAINT CHARLES, MO - CONROE, TX",
+          "rate": "1000"
+        },
+        {
+          "time": "06/12/2020",
+          "orderNumber": "85942",
+          "company": "Carolina Logistics",
+          "cities": "LIVERMORE, CA - EAST LIBERTY, OH",
+          "rate": "2300"
+        },
+        {
+          "time": "06/12/2020",
+          "orderNumber": "85944",
+          "company": "Carolina Logistics",
+          "cities": "BOWLING GREEN, KY - NEW PHILADELPHIA, OH",
+          "rate": "1000"
+        },
+        {
+          "time": "06/12/2020",
+          "orderNumber": "85953",
+          "company": "Carolina Logistics",
+          "cities": "DALLAS, TX - SAN FRANCISCO, CA",
+          "rate": "1900"
+        },
+        {
+          "time": "06/15/2020",
+          "orderNumber": "85956",
+          "company": "Carolina Logistics",
+          "cities": "LOWER BURRELL, PA - BETHLEHEM, PA",
+          "rate": "700"
+        },
+        {
+          "time": "06/12/2020",
+          "orderNumber": "85982",
+          "company": "Carolina Logistics",
+          "cities": "LOUISVILLE, KY - MILFORD, MA",
+          "rate": "1800"
+        },
+        {
+          "time": "06/12/2020",
+          "orderNumber": "85989",
+          "company": "Carolina Logistics",
+          "cities": "WHEELING, IL - OAKDALE, CA",
+          "rate": "2900"
+        },
+        {
+          "time": "06/12/2020",
+          "orderNumber": "85990",
+          "company": "Carolina Logistics",
+          "cities": "DES PLAINES, IL - SAINT-LAURENT, QC",
+          "rate": "1900"
+        },
+        {
+          "time": "06/14/2020",
+          "orderNumber": "86045",
+          "company": "Carolina Logistics",
+          "cities": "DFW, TX - EAGLE PASS, TX",
+          "rate": "800"
+        },
+        {
+          "time": "06/15/2020",
+          "orderNumber": "86026",
+          "company": "Carolina Logistics",
+          "cities": "ATHENS, AL - PRINCETON, IN",
+          "rate": "850"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "date": "6.15.2020",
+      "records": [
+        {
+          "time": "06/15/2020",
+          "orderNumber": "85997",
+          "company": "Carolina Logistics",
+          "cities": "CENTRAL FALLS, RI - NEW YORK, NY",
+          "rate": "850"
+        },
+        {
+          "time": "06/15/2020",
+          "orderNumber": "86084",
+          "company": "Carolina Logistics",
+          "cities": "ELKRIDGE, MD - HENRICO, VA",
+          "rate": "550"
+        },
+        {
+          "time": "06/15/2020",
+          "orderNumber": "86089",
+          "company": "Carolina Logistics",
+          "cities": "SARASOTA, FL - FAIRBURN, GA",
+          "rate": "750"
+        },
+        {
+          "time": "06/15/2020",
+          "orderNumber": "86090",
+          "company": "Carolina Logistics",
+          "cities": "MEMPHIS, TN - KANSAS CITY, MO",
+          "rate": "500"
+        },
+        {
+          "time": "06/15/2020",
+          "orderNumber": "86097",
+          "company": "Carolina Logistics",
+          "cities": "NASH, TX - BIRMINGHAM, AL",
+          "rate": "750"
+        },
+        {
+          "time": "06/15/2020",
+          "orderNumber": "86102",
+          "company": "Carolina Logistics",
+          "cities": "JAMAICA, NY - EATONTOWN, NJ",
+          "rate": "400"
+        },
+        {
+          "time": "06/15/2020",
+          "orderNumber": "86101",
+          "company": "Carolina Logistics",
+          "cities": "CONCORD, NC - LAREDO, TX",
+          "rate": "1325"
+        },
+        {
+          "time": "06/15/2020",
+          "orderNumber": "86112",
+          "company": "Carolina Logistics",
+          "cities": "BLYTHEWOOD, SC - ROCKFORD, IL",
+          "rate": "1100"
+        },
+        {
+          "time": "06/15/2020",
+          "orderNumber": "86113",
+          "company": "Carolina Logistics",
+          "cities": "HOUSTON, TX - AMELIA, LA",
+          "rate": "500"
+        },
+        {
+          "time": "06/15/2020",
+          "orderNumber": "86143",
+          "company": "Carolina Logistics",
+          "cities": "PUEBLO, CO - OGDEN, UT",
+          "rate": "1000"
+        },
+        {
+          "time": "06/15/2020",
+          "orderNumber": "86153",
+          "company": "Carolina Logistics",
+          "cities": "DAWSONVILLE, GA - INWOOD, WV",
+          "rate": "1000"
+        },
+        {
+          "time": "06/16/2020",
+          "orderNumber": "86170",
+          "company": "Carolina Logistics",
+          "cities": "WHITAKERS, NC - HOUSTON, TX",
+          "rate": "1250"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "date": "6.29.2020",
+      "records": [
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87455",
+          "company": "Carolina Logistics",
+          "cities": "AUBURN HILLS, MI - HUNTSVILLE, AL",
+          "rate": "630"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87459",
+          "company": "Carolina Logistics",
+          "cities": "GOODYEAR, AZ - SEATTLE, WA",
+          "rate": "1450"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87461",
+          "company": "Carolina Logistics",
+          "cities": "BOWLING GREEN, KY - REED CITY, MI",
+          "rate": "1000"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87464",
+          "company": "Carolina Logistics",
+          "cities": "ASHBURN, VA - LAKE CITY, FL",
+          "rate": "980"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87462",
+          "company": "Carolina Logistics",
+          "cities": "GREENFIELD, IN - KANSAS CITY, MO",
+          "rate": "500"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87468",
+          "company": "Carolina Logistics",
+          "cities": "SAINT JOSEPH, MO - SAUK RAPIDS, MN",
+          "rate": "600"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87465",
+          "company": "Carolina Logistics",
+          "cities": "CENTER LINE, MI - KANSAS CITY, MO",
+          "rate": "770"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87470",
+          "company": "Carolina Logistics",
+          "cities": "JACKSONVILLE, FL - TAMPA, FL",
+          "rate": "600"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87471",
+          "company": "Carolina Logistics",
+          "cities": "CEDAR LAKE, IN - HERSHEY, NE",
+          "rate": "825"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87474",
+          "company": "Carolina Logistics",
+          "cities": "PASADENA, TX - SUWANEE, GA",
+          "rate": "650"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87475",
+          "company": "Carolina Logistics",
+          "cities": "TAMPA, FL - HARAHAN, LA",
+          "rate": "750"
+        },
+        {
+          "time": "06/27/2020",
+          "orderNumber": "87478",
+          "company": "Carolina Logistics",
+          "cities": "GREENVILLE, NC - NOVI, MI",
+          "rate": "1500"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87480",
+          "company": "Carolina Logistics",
+          "cities": "LANSING, MI - ROCKFORD, IL",
+          "rate": "550"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87484",
+          "company": "Carolina Logistics",
+          "cities": "DALLAS, TX - SUNRISE, FL",
+          "rate": "1800"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87482",
+          "company": "Carolina Logistics",
+          "cities": "NEWTOWN, PA - JENKINTOWN, PA",
+          "rate": "170"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87486",
+          "company": "Carolina Logistics",
+          "cities": "COLUMBUS, OH - YELLVILLE, AR",
+          "rate": "1000"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87487",
+          "company": "Carolina Logistics",
+          "cities": "CHICAGO, IL - BEAVERTON, MI",
+          "rate": "400"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87488",
+          "company": "Carolina Logistics",
+          "cities": "IOWA PARK, TX - BEARDSTOWN, IL",
+          "rate": "700"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87490",
+          "company": "Carolina Logistics",
+          "cities": "HOUSTON, TX - DARTMOUTH, NS",
+          "rate": "3950"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87492",
+          "company": "Carolina Logistics",
+          "cities": "SHELBYVILLE, IN - CHAMBERSBURG, PA",
+          "rate": "650"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87495",
+          "company": "Carolina Logistics",
+          "cities": "HOWELL, MI - NORTH KANSAS CITY, MO",
+          "rate": "630"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87498",
+          "company": "Carolina Logistics",
+          "cities": "LA GRANGE, IL - MUNCIE, IN",
+          "rate": "325"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87499",
+          "company": "Carolina Logistics",
+          "cities": "MANSFIELD, TX - AUSTIN, TX",
+          "rate": "350"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87514",
+          "company": "Carolina Logistics",
+          "cities": "SIDNEY, OH - CIRCLEVILLE, OH",
+          "rate": "250"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87516",
+          "company": "Carolina Logistics",
+          "cities": "LUTZ, FL - CHAMPAIGN, IL",
+          "rate": "1900"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87518",
+          "company": "Carolina Logistics",
+          "cities": "ANKENY, IA - PEMBINA, ND",
+          "rate": "850"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87520",
+          "company": "Carolina Logistics",
+          "cities": "MICHIGAN CITY, IN - KALAMAZOO, MI",
+          "rate": "350"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87522",
+          "company": "Carolina Logistics",
+          "cities": "STUTTGART, AR - CHARLOTTE, NC",
+          "rate": "670"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87524",
+          "company": "Carolina Logistics",
+          "cities": "EAST POINT, GA - COATESVILLE, PA",
+          "rate": "800"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87526",
+          "company": "Carolina Logistics",
+          "cities": "SAINT LOUIS, MO - IRONDALE, AL",
+          "rate": "480"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87527",
+          "company": "Carolina Logistics",
+          "cities": "SOUTH BRUNSWICK, NJ - LAREDO, TX",
+          "rate": "1400"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87529",
+          "company": "Carolina Logistics",
+          "cities": "HACKENSACK, NJ - CHARLOTTESVILLE, VA",
+          "rate": "600"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87531",
+          "company": "Carolina Logistics",
+          "cities": "LUTZ, FL - CHAMPAIGN, IL",
+          "rate": "1000"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87532",
+          "company": "Carolina Logistics",
+          "cities": "ELKRIDGE, MD - MONTGOMERY, NJ",
+          "rate": "450"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87533",
+          "company": "Carolina Logistics",
+          "cities": "EAST SYRACUSE, NY - SYRACUSE, NY",
+          "rate": "200"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87534",
+          "company": "Carolina Logistics",
+          "cities": "SAINT PAUL, MN - PLYMOUTH, MI",
+          "rate": "850"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87536",
+          "company": "Carolina Logistics",
+          "cities": "OAK CREEK, WI - CEDAR RAPIDS, IA",
+          "rate": "750"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87537",
+          "company": "Carolina Logistics",
+          "cities": "ROSEVILLE, CA - SAN ANTONIO, TX",
+          "rate": "1350"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87542",
+          "company": "Carolina Logistics",
+          "cities": "HOUSTON, TX - STERLING, VA",
+          "rate": "1800"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87544",
+          "company": "Carolina Logistics",
+          "cities": "NEWPORT NEWS, VA - HOUSTON, TX",
+          "rate": "1850"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87538",
+          "company": "Carolina Logistics",
+          "cities": "BOWLING GREEN, OH - STRASBURG, VA",
+          "rate": "550"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87545",
+          "company": "Carolina Logistics",
+          "cities": "BOERNE, TX - KELLER, TX",
+          "rate": "600"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87548",
+          "company": "Carolina Logistics",
+          "cities": "POMPANO BEACH, FL - ATLANTA, GA",
+          "rate": "500"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87550",
+          "company": "Carolina Logistics",
+          "cities": "HOUSTON, TX - CHARLOTTE, NC",
+          "rate": "1150"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87551",
+          "company": "Carolina Logistics",
+          "cities": "MCKEESPORT, PA - KERNERSVILLE, NC",
+          "rate": "600"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87553",
+          "company": "Carolina Logistics",
+          "cities": "DEMOPOLIS, AL - MACON, GA",
+          "rate": "320"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87554",
+          "company": "Carolina Logistics",
+          "cities": "HINSDALE, IL - GUELPH, ON",
+          "rate": "1100"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87556",
+          "company": "Carolina Logistics",
+          "cities": "BEAUMONT, TX - MORGAN CITY, LA",
+          "rate": "350"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87558",
+          "company": "Carolina Logistics",
+          "cities": "MILWAUKEE, WI - BIRMINGHAM, AL",
+          "rate": "1250"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87560",
+          "company": "Carolina Logistics",
+          "cities": "LOUISVILLE, KY - KENNESAW, GA",
+          "rate": "650"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87562",
+          "company": "Carolina Logistics",
+          "cities": "ROCHESTER, NY - DAYTON, NJ",
+          "rate": "700"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87566",
+          "company": "Carolina Logistics",
+          "cities": "SAN RAMON, CA - BIRMINGHAM, AL",
+          "rate": "1950"
+        },
+        {
+          "time": "06/29/2020",
+          "orderNumber": "87567",
+          "company": "Carolina Logistics",
+          "cities": "CHATSWORTH, CA - RIVERSIDE, CA",
+          "rate": "375"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87570",
+          "company": "Carolina Logistics",
+          "cities": "PITTSBURGH, PA - EDISON, NJ",
+          "rate": "400"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87572",
+          "company": "Carolina Logistics",
+          "cities": "GREENBUSH, MI - MILFORD, CT",
+          "rate": "1400"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87575",
+          "company": "Carolina Logistics",
+          "cities": "CHATTANOOGA, TN - CONCORD, NC",
+          "rate": "480"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87576",
+          "company": "Carolina Logistics",
+          "cities": "MIAMI, FL - SAINT CLOUD, MN",
+          "rate": "2700"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87578",
+          "company": "Carolina Logistics",
+          "cities": "HENDERSON, NV - PHOENIX, AZ",
+          "rate": "900"
+        }
+      ],
+      "id": 14
+    },
+    {
+      "date": "6.30.2020",
+      "records": [
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87596",
+          "company": "Carolina Logistics",
+          "cities": "BAYONNE, NJ - PORTLAND, OR",
+          "rate": "3000"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87597",
+          "company": "Carolina Logistics",
+          "cities": "SHELBYVILLE, KY - ROCKFORD, IL",
+          "rate": "750"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87600",
+          "company": "Carolina Logistics",
+          "cities": "ALLIANCE, NE - BARSTOW, CA",
+          "rate": "1400"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87601",
+          "company": "Carolina Logistics",
+          "cities": "ORLANDO, FL - DALLAS, TX",
+          "rate": "950"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87603",
+          "company": "Carolina Logistics",
+          "cities": "RAEFORD, NC - CANONSBURG, PA",
+          "rate": "475"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87605",
+          "company": "Carolina Logistics",
+          "cities": "GREENVILLE, SC - JACKSONVILLE, FL",
+          "rate": "650"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87606",
+          "company": "Carolina Logistics",
+          "cities": "SPARTANBURG, SC - MORRISTOWN, TN",
+          "rate": "250"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87611",
+          "company": "Carolina Logistics",
+          "cities": "SAINT PETERSBURG, FL - ROCKY MOUNT, NC",
+          "rate": "510"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87615",
+          "company": "Carolina Logistics",
+          "cities": "HUNTSVILLE, AR - RAEFORD, NC",
+          "rate": "930"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87617",
+          "company": "Carolina Logistics",
+          "cities": "ROMEO, MI - PALO ALTO, CA",
+          "rate": "2340"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87621",
+          "company": "Carolina Logistics",
+          "cities": "CHARLOTTE, NC - OBERLIN, OH",
+          "rate": "850"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87623",
+          "company": "Carolina Logistics",
+          "cities": "IPSWICH, MA - PORT GIBSON, MS",
+          "rate": "1800"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87625",
+          "company": "Carolina Logistics",
+          "cities": "CARPENTERSVILLE, IL - PARSONS, TN",
+          "rate": "520"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87628",
+          "company": "Carolina Logistics",
+          "cities": "DRAIN, OR - AZUSA, CA",
+          "rate": "630"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87629",
+          "company": "Carolina Logistics",
+          "cities": "INDIANAPOLIS, IN - ORANGEBURG, SC",
+          "rate": "800"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87631",
+          "company": "Carolina Logistics",
+          "cities": "MOORESVILLE, NC - LAWRENCEVILLE, IL",
+          "rate": "1300"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87634",
+          "company": "Carolina Logistics",
+          "cities": "MARYLAND HEIGHTS, MO - NORTH KINGSTOWN, RI",
+          "rate": "1800"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87637",
+          "company": "Carolina Logistics",
+          "cities": "PORTLAND, OR - PROVO, UT",
+          "rate": "770"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87638",
+          "company": "Carolina Logistics",
+          "cities": "BROOKLYN, NY - BROOKLYN, NY",
+          "rate": "150"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87640",
+          "company": "Carolina Logistics",
+          "cities": "FALMOUTH, VA - HEBRON, KY",
+          "rate": "500"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87635",
+          "company": "Carolina Logistics",
+          "cities": "GAYLORD, MN - GRAND RAPIDS, MI",
+          "rate": "600"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87642",
+          "company": "Carolina Logistics",
+          "cities": "STORY CITY, IA - SOLEDAD, CA",
+          "rate": "1850"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87644",
+          "company": "Carolina Logistics",
+          "cities": "SAN BENITO, TX - WENTZVILLE, MO",
+          "rate": "900"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87647",
+          "company": "Carolina Logistics",
+          "cities": "PFAFFTOWN, NC - TOTOWA, NJ",
+          "rate": "480"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87645",
+          "company": "Carolina Logistics",
+          "cities": "MANCHESTER, PA - URBANA, OH",
+          "rate": "450"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87653",
+          "company": "Carolina Logistics",
+          "cities": "BATAVIA, IL - HAZELWOOD, MO",
+          "rate": "600"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87670",
+          "company": "Carolina Logistics",
+          "cities": "EAST TAWAS, MI - ANDERSON, SC",
+          "rate": "825"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87672",
+          "company": "Carolina Logistics",
+          "cities": "CRETE, IL - ALSIP, IL",
+          "rate": "300"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87678",
+          "company": "Carolina Logistics",
+          "cities": "WAPWALLOPEN, PA - CAMAK, GA",
+          "rate": "1100"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87681",
+          "company": "Carolina Logistics",
+          "cities": "SAINT LOUIS, MO - LANCASTER, NY",
+          "rate": "800"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87682",
+          "company": "Carolina Logistics",
+          "cities": "TAMPA, FL - RALEIGH, NC",
+          "rate": "450"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87683",
+          "company": "Carolina Logistics",
+          "cities": "QUINCY, IL - MONTGOMERY, IL",
+          "rate": "350"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87684",
+          "company": "Carolina Logistics",
+          "cities": "ENNIS, TX - JOPPA, MD",
+          "rate": "2100"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87685",
+          "company": "Carolina Logistics",
+          "cities": "SWEETWATER, TX - WILLIAMS, AZ",
+          "rate": "1400"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87686",
+          "company": "Carolina Logistics",
+          "cities": "BYHALIA, MS - PLEASANT PRAIRIE, WI",
+          "rate": "550"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87687",
+          "company": "Carolina Logistics",
+          "cities": "LEBANON, OH - FRANKLIN, VA",
+          "rate": "720"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87687",
+          "company": "Carolina Logistics",
+          "cities": "LEBANON, OH - FRANKLIN, VA",
+          "rate": "720"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87688",
+          "company": "Carolina Logistics",
+          "cities": "HOWELL, MI - GADSDEN, AL",
+          "rate": "690"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87680",
+          "company": "Carolina Logistics",
+          "cities": "SMITHFIELD, RI - WIXOM, MI",
+          "rate": "610"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87689",
+          "company": "Carolina Logistics",
+          "cities": "TUCSON, AZ - FAIRBANKS RANCH, CA",
+          "rate": "750"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87690",
+          "company": "Carolina Logistics",
+          "cities": "ROSEVILLE, CA - PEORIA, AZ",
+          "rate": "1200"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87691",
+          "company": "Carolina Logistics",
+          "cities": "CHARLESTON, SC - CLEVELAND, NC",
+          "rate": "300"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87702",
+          "company": "Carolina Logistics",
+          "cities": "MANASSAS, VA - ANDOVER, MA",
+          "rate": "700"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87704",
+          "company": "Carolina Logistics",
+          "cities": "MORRISVILLE, PA - RAHWAY, NJ",
+          "rate": "250"
+        },
+        {
+          "time": "06/30/2020",
+          "orderNumber": "87699",
+          "company": "Carolina Logistics",
+          "cities": "LITTLETON, CO - CLAWSON, MI",
+          "rate": "930"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87707",
+          "company": "Carolina Logistics",
+          "cities": "EL PASO, TX - HUMBLE, TX",
+          "rate": "850"
+        }
+      ],
+      "id": 15
+    },
+    {
+      "date": "7.1.2020",
+      "records": [
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87723",
+          "company": "Carolina Logistics",
+          "cities": "DECATUR, IL - PERU, IL",
+          "rate": "300"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87725",
+          "company": "Carolina Logistics",
+          "cities": "PHILADELPHIA, PA - MANNINGTON, WV",
+          "rate": "480"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87729",
+          "company": "Carolina Logistics",
+          "cities": "DEARBORN HEIGHTS, MI - HAM LAKE, MN",
+          "rate": "700"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87731",
+          "company": "Carolina Logistics",
+          "cities": "NEW YORK, NY - COLUMBUS, OH",
+          "rate": "430"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87733",
+          "company": "Carolina Logistics",
+          "cities": "PITTSBURGH, PA - MUNCIE, IN",
+          "rate": "350"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87737",
+          "company": "Carolina Logistics",
+          "cities": "EAST WINDSOR, CT - WEST BABYLON, NY",
+          "rate": "330"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87735",
+          "company": "Carolina Logistics",
+          "cities": "RICHLAND, WA - MOUNT VERNON, WA",
+          "rate": "450"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87743",
+          "company": "Carolina Logistics",
+          "cities": "TAMPA, FL - JERSEY CITY, NJ",
+          "rate": "800"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87745",
+          "company": "Carolina Logistics",
+          "cities": "GRANDVILLE, MI - LEXINGTON, KY",
+          "rate": "480"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87747",
+          "company": "Carolina Logistics",
+          "cities": "NEW YORK, NY - LENEXA, KS",
+          "rate": "1300"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87749",
+          "company": "Carolina Logistics",
+          "cities": "ELWOOD, IL - STAUNTON, VA",
+          "rate": "1175"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87751",
+          "company": "Carolina Logistics",
+          "cities": "LAKE BLUFF, IL - ANDERSON, IN",
+          "rate": "580"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87752",
+          "company": "Carolina Logistics",
+          "cities": "LEMONT, IL - LA PORTE, TX",
+          "rate": "1075"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87756",
+          "company": "Carolina Logistics",
+          "cities": "SAINT PAUL, MN - SAN JOSE, CA",
+          "rate": "3000"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87757",
+          "company": "Carolina Logistics",
+          "cities": "SAYREVILLE, NJ - FORT WAYNE, IN",
+          "rate": "1300"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87760",
+          "company": "Carolina Logistics",
+          "cities": "GREENSBORO, NC - CLIFTON, NJ",
+          "rate": "0"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87754",
+          "company": "Carolina Logistics",
+          "cities": "GREENSBORO, NC - CLIFTON, NJ",
+          "rate": "550"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87762",
+          "company": "Carolina Logistics",
+          "cities": "HOT SPRINGS NATIONAL PARK, AR - ENID, OK",
+          "rate": "450"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87763",
+          "company": "Carolina Logistics",
+          "cities": "CLARE, MI - OAK HILL, WV",
+          "rate": "1000"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87764",
+          "company": "Carolina Logistics",
+          "cities": "HUMBLE, TX - CAMDEN, AR",
+          "rate": "350"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87767",
+          "company": "Carolina Logistics",
+          "cities": "HOLYOKE, MA - WATERTOWN, MA",
+          "rate": "30"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87768",
+          "company": "Carolina Logistics",
+          "cities": "LINVILLE, VA - TERRE HILL, PA",
+          "rate": "250"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87770",
+          "company": "Carolina Logistics",
+          "cities": "COPPELL, TX - EL PASO, TX",
+          "rate": "1300"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87772",
+          "company": "Carolina Logistics",
+          "cities": "CLEVELAND, OH - DUNCAN, SC",
+          "rate": "530"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87773",
+          "company": "Carolina Logistics",
+          "cities": "LENEXA, KS - WAHPETON, ND",
+          "rate": "600"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87774",
+          "company": "Carolina Logistics",
+          "cities": "CHINO, CA - OKLAHOMA CITY, OK",
+          "rate": "1350"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87789",
+          "company": "Carolina Logistics",
+          "cities": "CLARE, MI - OAK HILL, WV",
+          "rate": "500"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87791",
+          "company": "Carolina Logistics",
+          "cities": "BEREA, KY - SMYRNA, TN",
+          "rate": "500"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87793",
+          "company": "Carolina Logistics",
+          "cities": "JACKSONVILLE, FL - NORFOLK, VA",
+          "rate": "1150"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87797",
+          "company": "Carolina Logistics",
+          "cities": "CORINTH, MS - LAFAYETTE, LA",
+          "rate": "450"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87798",
+          "company": "Carolina Logistics",
+          "cities": "ANDREWS, NC - BAGLEY, MN",
+          "rate": "1050"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87800",
+          "company": "Carolina Logistics",
+          "cities": "SADDLE BROOK, NJ - FAIRBURN, GA",
+          "rate": "775"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87803",
+          "company": "Carolina Logistics",
+          "cities": "ATLANTA, GA - STERLING HEIGHTS, MI",
+          "rate": "650"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87804",
+          "company": "Carolina Logistics",
+          "cities": "LITHIA SPRINGS, GA - CLIFTON PARK, NY",
+          "rate": "850"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87805",
+          "company": "Carolina Logistics",
+          "cities": "ORTING, WA - BELLINGHAM, WA",
+          "rate": "350"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87806",
+          "company": "Carolina Logistics",
+          "cities": "EDISON, NJ - EDISON, NJ",
+          "rate": "250"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87807",
+          "company": "Carolina Logistics",
+          "cities": "BOHEMIA, NY - ATLANTA, GA",
+          "rate": "2000"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87808",
+          "company": "Carolina Logistics",
+          "cities": "ELK GROVE VILLAGE, IL - SAINT ELMO, IL",
+          "rate": "375"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87810",
+          "company": "Carolina Logistics",
+          "cities": "MILLERSBURG, PA - BRANCHBURG, NJ",
+          "rate": "400"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87809",
+          "company": "Carolina Logistics",
+          "cities": "EDWARDSVILLE, IL - WARREN, MI",
+          "rate": "700"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87812",
+          "company": "Carolina Logistics",
+          "cities": "HOUSTON, TX - SEYMOUR, IN",
+          "rate": "1600"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87811",
+          "company": "Carolina Logistics",
+          "cities": "RENO, NV - CEDAR CITY, UT",
+          "rate": "650"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87813",
+          "company": "Carolina Logistics",
+          "cities": "ROBINSONVILLE, MS - BROKEN ARROW, OK",
+          "rate": "700"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87814",
+          "company": "Carolina Logistics",
+          "cities": "COLORADO SPRINGS, CO - SMYRNA, GA",
+          "rate": "1550"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87818",
+          "company": "Carolina Logistics",
+          "cities": "MARSHALLTOWN, IA - HIDALGO, TX",
+          "rate": "263 "
+        },
+        {
+          "time": "07/08/2020",
+          "orderNumber": "87824",
+          "company": "Carolina Logistics",
+          "cities": "BLUE EARTH, MN - VESPER, WI",
+          "rate": "750"
+        },
+        {
+          "time": "07/01/2020",
+          "orderNumber": "87826",
+          "company": "Carolina Logistics",
+          "cities": "MILLBURY, MA - SADDLE BROOK, NJ",
+          "rate": "350"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87828",
+          "company": "Carolina Logistics",
+          "cities": "LAS VEGAS, NV - MORGANTON, NC",
+          "rate": "2800"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87830",
+          "company": "Carolina Logistics",
+          "cities": "INMAN, SC - MENTOR, OH",
+          "rate": "550"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87833",
+          "company": "Carolina Logistics",
+          "cities": "CHELMSFORD, MA - YELLOWTAIL, MT",
+          "rate": "3600"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87834",
+          "company": "Carolina Logistics",
+          "cities": "EAST PEORIA, IL - GRAND RAPIDS, MI",
+          "rate": "700"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87836",
+          "company": "Carolina Logistics",
+          "cities": "PASSAIC, NJ - CINCINNATI, OH",
+          "rate": "500"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87839",
+          "company": "Carolina Logistics",
+          "cities": "COLUMBIA, SC - CUMBERLAND CITY, TN",
+          "rate": "530"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87838",
+          "company": "Carolina Logistics",
+          "cities": "PLYMOUTH, MI - SALT LAKE CITY, UT",
+          "rate": "1600"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87844",
+          "company": "Carolina Logistics",
+          "cities": "SIDNEY, OH - LAREDO, TX",
+          "rate": "1400"
+        }
+      ],
+      "id": 16
+    },
+    {
+      "date": "7.2.2020",
+      "records": [
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87856",
+          "company": "Carolina Logistics",
+          "cities": "CHICKASHA, OK - THE WOODLANDS, TX",
+          "rate": "650"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87859",
+          "company": "Carolina Logistics",
+          "cities": "AURORA, CO - SHEBOYGAN, WI",
+          "rate": "775"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87861",
+          "company": "Carolina Logistics",
+          "cities": "STUART, FL - ORLANDO, FL",
+          "rate": "450"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87865",
+          "company": "Carolina Logistics",
+          "cities": "CHARLESTON, WV - CEDAR RAPIDS, IA",
+          "rate": "600"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87867",
+          "company": "Carolina Logistics",
+          "cities": "DAYTON, NJ - BRONX, NY",
+          "rate": "500"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87870",
+          "company": "Carolina Logistics",
+          "cities": "MONTGOMERY, NY - PLYMOUTH, MA",
+          "rate": "450"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87871",
+          "company": "Carolina Logistics",
+          "cities": "WOODVILLE, WI - SAN ANTONIO, TX",
+          "rate": "1160"
+        },
+        {
+          "time": "07/06/2020",
+          "orderNumber": "87873",
+          "company": "Carolina Logistics",
+          "cities": "NEW LISBON, WI - HAMILTON, OH",
+          "rate": "750"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87875",
+          "company": "Carolina Logistics",
+          "cities": "NOGALES, AZ - MIAMI, FL",
+          "rate": "1600"
+        },
+        {
+          "time": "07/06/2020",
+          "orderNumber": "87877",
+          "company": "Carolina Logistics",
+          "cities": "FALLBROOK, CA - NAVAL AIR STATION JRB, TX",
+          "rate": "2800"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87880",
+          "company": "Carolina Logistics",
+          "cities": "LATROBE, PA - CAMBRIDGE, ON",
+          "rate": "700"
+        },
+        {
+          "time": "07/03/2020",
+          "orderNumber": "87882",
+          "company": "Carolina Logistics",
+          "cities": "JAMAICA, NY - WHITESTONE, NY",
+          "rate": "250"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87884",
+          "company": "Carolina Logistics",
+          "cities": "HUMBLE, TX - BASTROP, TX",
+          "rate": "525"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87887",
+          "company": "Carolina Logistics",
+          "cities": "JACKSONVILLE, FL - TAMPA, FL",
+          "rate": "600"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87894",
+          "company": "Carolina Logistics",
+          "cities": "CARTERET, NJ - AKRON, OH",
+          "rate": "500"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87897",
+          "company": "Carolina Logistics",
+          "cities": "DALLAS, TX - SPRINGFIELD, VA",
+          "rate": "1075"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87899",
+          "company": "Carolina Logistics",
+          "cities": "TAMPA, FL - JACKSONVILLE, FL",
+          "rate": "450"
+        },
+        {
+          "time": "07/06/2020",
+          "orderNumber": "87900",
+          "company": "Carolina Logistics",
+          "cities": "LEETSDALE, PA - CHATTANOOGA, TN",
+          "rate": "575"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87903",
+          "company": "Carolina Logistics",
+          "cities": "DUNCAN, SC - HERMISTON, OR",
+          "rate": "3000"
+        },
+        {
+          "time": "07/06/2020",
+          "orderNumber": "87904",
+          "company": "Carolina Logistics",
+          "cities": "HIBBING, MN - DECATUR, IN",
+          "rate": "635"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87920",
+          "company": "Carolina Logistics",
+          "cities": "HENDERSON, NV - FAYETTEVILLE, NY",
+          "rate": "1600"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87921",
+          "company": "Carolina Logistics",
+          "cities": "LIVONIA, MI - SHELBYVILLE, TN",
+          "rate": "650"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87922",
+          "company": "Carolina Logistics",
+          "cities": "SEYMOUR, IN - SAINT CHARLES, IL",
+          "rate": "350"
+        },
+        {
+          "time": "07/06/2020",
+          "orderNumber": "87926",
+          "company": "Carolina Logistics",
+          "cities": "BOSTON, MA - BOSTON, MA",
+          "rate": "175"
+        },
+        {
+          "time": "07/06/2020",
+          "orderNumber": "87927",
+          "company": "Carolina Logistics",
+          "cities": "CHICAGO, IL - OSHKOSH, WI",
+          "rate": "500"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87928",
+          "company": "Carolina Logistics",
+          "cities": "SHARONVILLE, OH - INDIANAPOLIS, IN",
+          "rate": "375"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87931",
+          "company": "Carolina Logistics",
+          "cities": "WYANDOTTE, MI - CLEVELAND, OH",
+          "rate": "400"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87929",
+          "company": "Carolina Logistics",
+          "cities": "CHICAGO, IL - SEYMOUR, IN",
+          "rate": "500"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87925",
+          "company": "Carolina Logistics",
+          "cities": "ATLANTA, GA - INDIANAPOLIS, IN",
+          "rate": "800"
+        },
+        {
+          "time": "07/03/2020",
+          "orderNumber": "87930",
+          "company": "Carolina Logistics",
+          "cities": "LOS INDIOS, TX - WARREN, MI",
+          "rate": "1350"
+        },
+        {
+          "time": "07/06/2020",
+          "orderNumber": "87933",
+          "company": "Carolina Logistics",
+          "cities": "CHARLOTTE, NC - WHITEHALL, MI",
+          "rate": "640"
+        },
+        {
+          "time": "07/06/2020",
+          "orderNumber": "87932",
+          "company": "Carolina Logistics",
+          "cities": "EAGLE PASS, TX - BRIDGETON, MO",
+          "rate": "1150"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87934",
+          "company": "Carolina Logistics",
+          "cities": "NEW BEDFORD, MA - BRIGANTINE, NJ",
+          "rate": "700"
+        },
+        {
+          "time": "07/06/2020",
+          "orderNumber": "87935",
+          "company": "Carolina Logistics",
+          "cities": "BARBERTON, OH - HEATH, OH",
+          "rate": "200"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87937",
+          "company": "Carolina Logistics",
+          "cities": "MIAMI, FL - MIAMI, FL",
+          "rate": "300"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87938",
+          "company": "Carolina Logistics",
+          "cities": "FREMONT, CA - SAN DIEGO, CA",
+          "rate": "650"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87936",
+          "company": "Carolina Logistics",
+          "cities": "OKLAHOMA CITY, OK - TULSA, OK",
+          "rate": "400"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87942",
+          "company": "Carolina Logistics",
+          "cities": "PARKERSBURG, WV - KENT, WA",
+          "rate": "3000"
+        },
+        {
+          "time": "07/06/2020",
+          "orderNumber": "87943",
+          "company": "Carolina Logistics",
+          "cities": "GAFFNEY, SC - IRVING, TX",
+          "rate": "850"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87890",
+          "company": "Carolina Logistics",
+          "cities": "CINCINNATI, OH - SHEFFIELD VILLAGE, OH",
+          "rate": "150"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87949",
+          "company": "Carolina Logistics",
+          "cities": "HOUSTON, TX - NORTH CHICAGO, IL",
+          "rate": "1050"
+        },
+        {
+          "time": "07/06/2020",
+          "orderNumber": "87950",
+          "company": "Carolina Logistics",
+          "cities": "ELBA, AL - NORTH LITTLE ROCK, AR",
+          "rate": "1150"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87952",
+          "company": "Carolina Logistics",
+          "cities": "COLUMBUS, WI - FLORENCE, NJ",
+          "rate": "450"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87955",
+          "company": "Carolina Logistics",
+          "cities": "HOUSTON, TX - BRUNSWICK, GA",
+          "rate": "1300"
+        },
+        {
+          "time": "07/02/2020",
+          "orderNumber": "87957",
+          "company": "Carolina Logistics",
+          "cities": "MONTEBELLO, CA - SUN VALLEY, CA",
+          "rate": "400"
+        }
+      ],
+      "id": 17
+    },
+    {
+      "date": "7.7.2020",
+      "records": [
+        {
+          "time": "07/07/2020",
+          "orderNumber": "88112",
+          "company": "Carolina Logistics",
+          "cities": "MECHANICSBURG, PA - TROY, MI",
+          "rate": "700"
+        },
+        {
+          "time": "07/07/2020",
+          "orderNumber": "88113",
+          "company": "Carolina Logistics",
+          "cities": "CARTERET, NJ - JEFFERSON, WI",
+          "rate": "790"
+        },
+        {
+          "time": "07/07/2020",
+          "orderNumber": "88115",
+          "company": "Carolina Logistics",
+          "cities": "SHELBYVILLE, KY - RIVER GROVE, IL",
+          "rate": "650"
+        },
+        {
+          "time": "07/07/2020",
+          "orderNumber": "88116",
+          "company": "Carolina Logistics",
+          "cities": "ELKRIDGE, MD - EDWARDSVILLE, IL",
+          "rate": "1035"
+        },
+        {
+          "time": "07/07/2020",
+          "orderNumber": "88121",
+          "company": "Carolina Logistics",
+          "cities": "MOORESVILLE, IN - SAN ANTONIO, TX",
+          "rate": "1030"
+        },
+        {
+          "time": "07/07/2020",
+          "orderNumber": "88126",
+          "company": "Carolina Logistics",
+          "cities": "JAMAICA, NY - ROANOKE, VA",
+          "rate": "450"
+        },
+        {
+          "time": "07/07/2020",
+          "orderNumber": "88128",
+          "company": "Carolina Logistics",
+          "cities": "HOUSTON, TX - WALNUT, CA",
+          "rate": "1200"
+        },
+        {
+          "time": "07/07/2020",
+          "orderNumber": "88130",
+          "company": "Carolina Logistics",
+          "cities": "GREENWOOD, SC - MACUNGIE, PA",
+          "rate": "560"
+        },
+        {
+          "time": "07/07/2020",
+          "orderNumber": "88135",
+          "company": "Carolina Logistics",
+          "cities": "LAKE HALLIE, WI - LOUISVILLE, KY",
+          "rate": "575"
+        },
+        {
+          "time": "07/07/2020",
+          "orderNumber": "88138",
+          "company": "Carolina Logistics",
+          "cities": "BEMENT, IL - NEPTUNE, NJ",
+          "rate": "1350"
+        },
+        {
+          "time": "07/07/2020",
+          "orderNumber": "88140",
+          "company": "Carolina Logistics",
+          "cities": "BOLINGBROOK, IL - SCRANTON, AR",
+          "rate": "510"
+        },
+        {
+          "time": "07/07/2020",
+          "orderNumber": "88143",
+          "company": "Carolina Logistics",
+          "cities": "FULTON, MS - DUNKIRK, OH",
+          "rate": "800"
+        },
+        {
+          "time": "07/07/2020",
+          "orderNumber": "88144",
+          "company": "Carolina Logistics",
+          "cities": "MICHIGAN CITY, IN - NEWTON, IA",
+          "rate": "400"
+        },
+        {
+          "time": "07/08/2020",
+          "orderNumber": "88163",
+          "company": "Carolina Logistics",
+          "cities": "CINCINNATI, OH - CINCINNATI, OH",
+          "rate": "100"
+        },
+        {
+          "time": "07/07/2020",
+          "orderNumber": "88168",
+          "company": "Carolina Logistics",
+          "cities": "FEASTERVILLE TREVOSE, PA - KALAMAZOO, MI",
+          "rate": "725"
+        },
+        {
+          "time": "07/07/2020",
+          "orderNumber": "88172",
+          "company": "Carolina Logistics",
+          "cities": "TORRANCE, CA - FORT WAYNE, IN",
+          "rate": "1530"
+        },
+        {
+          "time": "07/07/2020",
+          "orderNumber": "88177",
+          "company": "Carolina Logistics",
+          "cities": "MINOOKA, IL - WEST JEFFERSON, OH",
+          "rate": "450"
+        },
+        {
+          "time": "07/07/2020",
+          "orderNumber": "88194",
+          "company": "Carolina Logistics",
+          "cities": "LAREDO, TX - CHANTILLY, VA",
+          "rate": "3500"
+        },
+        {
+          "time": "07/08/2020",
+          "orderNumber": "88197",
+          "company": "Carolina Logistics",
+          "cities": "PATASKALA, OH - MAX MEADOWS, VA",
+          "rate": "650"
+        },
+        {
+          "time": "07/08/2020",
+          "orderNumber": "88200",
+          "company": "Carolina Logistics",
+          "cities": "CAROL STREAM, IL - OLATHE, KS",
+          "rate": "1000"
+        }
+      ],
+      "id": 18
+    },
+    {
+      "date": "7.8.2020",
+      "records": [
+        {
+          "time": "07/08/2020",
+          "orderNumber": "88219",
+          "company": "Carolina Logistics",
+          "cities": "WALWORTH, WI - MORRISON, TN",
+          "rate": "550"
+        },
+        {
+          "time": "07/08/2020",
+          "orderNumber": "88223",
+          "company": "Carolina Logistics",
+          "cities": "CRAWFORDSVILLE, IN - CURWENSVILLE, PA",
+          "rate": "550"
+        },
+        {
+          "time": "07/08/2020",
+          "orderNumber": "88231",
+          "company": "Carolina Logistics",
+          "cities": "DEARBORN HEIGHTS, MI - SALLISAW, OK",
+          "rate": "950"
+        },
+        {
+          "time": "07/08/2020",
+          "orderNumber": "88241",
+          "company": "Carolina Logistics",
+          "cities": "MINERAL WELLS, TX - COYANOSA, TX",
+          "rate": "510"
+        },
+        {
+          "time": "07/09/2020",
+          "orderNumber": "88268",
+          "company": "Carolina Logistics",
+          "cities": "LOS ANGELES, CA - CHULA VISTA, CA",
+          "rate": "300"
+        },
+        {
+          "time": "07/08/2020",
+          "orderNumber": "88279",
+          "company": "Carolina Logistics",
+          "cities": "EULESS, TX - FORT PAYNE, AL",
+          "rate": "650"
+        },
+        {
+          "time": "07/08/2020",
+          "orderNumber": "88280",
+          "company": "Carolina Logistics",
+          "cities": "HATFIELD, PA - WILMINGTON, NC",
+          "rate": "420"
+        },
+        {
+          "time": "07/08/2020",
+          "orderNumber": "88282",
+          "company": "Carolina Logistics",
+          "cities": "RUMFORD, RI - OSCEOLA, AR",
+          "rate": "1030"
+        },
+        {
+          "time": "07/08/2020",
+          "orderNumber": "88287",
+          "company": "Carolina Logistics",
+          "cities": "CRANBURY, NJ - ASTON, PA",
+          "rate": "500"
+        },
+        {
+          "time": "07/09/2020",
+          "orderNumber": "88303",
+          "company": "Carolina Logistics",
+          "cities": "HAYWARD, CA - FRASER, MI",
+          "rate": "2400"
+        },
+        {
+          "time": "07/09/2020",
+          "orderNumber": "88307",
+          "company": "Carolina Logistics",
+          "cities": "BENICIA, CA - MEMPHIS, TN",
+          "rate": "1360"
+        }
+      ],
+      "id": 19
+    },
+    {
+      "date": "7.13.2020",
+      "records": [
+        {
+          "time": "07/13/2020",
+          "orderNumber": "88595",
+          "company": "Carolina Logistics",
+          "cities": "CHAMPAIGN, IL - SPRINGFIELD, MO",
+          "rate": "420"
+        },
+        {
+          "time": "07/13/2020",
+          "orderNumber": "88597",
+          "company": "Carolina Logistics",
+          "cities": "ONTARIO, NY - JOPPA, MD",
+          "rate": "825"
+        },
+        {
+          "time": "07/13/2020",
+          "orderNumber": "88600",
+          "company": "Carolina Logistics",
+          "cities": "SHELBYVILLE, KY - COLUMBUS, OH",
+          "rate": "450"
+        },
+        {
+          "time": "07/13/2020",
+          "orderNumber": "88603",
+          "company": "Carolina Logistics",
+          "cities": "MONROE, NC - WHITE CLOUD, MI",
+          "rate": "700"
+        },
+        {
+          "time": "07/13/2020",
+          "orderNumber": "88599",
+          "company": "Carolina Logistics",
+          "cities": "LEESBURG, FL - SPRING HILL, TN",
+          "rate": "500"
+        },
+        {
+          "time": "07/13/2020",
+          "orderNumber": "88604",
+          "company": "Carolina Logistics",
+          "cities": "CONYERS, GA - CORPUS CHRISTI, TX",
+          "rate": "900"
+        },
+        {
+          "time": "07/13/2020",
+          "orderNumber": "88606",
+          "company": "Carolina Logistics",
+          "cities": "CLAYMONT, DE - CRESTWOOD, MO",
+          "rate": "1300"
+        },
+        {
+          "time": "07/13/2020",
+          "orderNumber": "88609",
+          "company": "Carolina Logistics",
+          "cities": "CONYERS, GA - CORPUS CHRISTI, TX",
+          "rate": "1400"
+        },
+        {
+          "time": "07/13/2020",
+          "orderNumber": "88613",
+          "company": "Carolina Logistics",
+          "cities": "LEBANON, NJ - JAMAICA, NY",
+          "rate": "275"
+        },
+        {
+          "time": "07/13/2020",
+          "orderNumber": "88618",
+          "company": "Carolina Logistics",
+          "cities": "CHICKASHA, OK - SIOUX CENTER, IA",
+          "rate": "550"
+        },
+        {
+          "time": "07/13/2020",
+          "orderNumber": "88619",
+          "company": "Carolina Logistics",
+          "cities": "SAINT PAUL, MN - WEST CHESTER, OH",
+          "rate": "810"
+        },
+        {
+          "time": "07/13/2020",
+          "orderNumber": "88621",
+          "company": "Carolina Logistics",
+          "cities": "LAS VEGAS, NV - KENT, WA",
+          "rate": "1550"
+        },
+        {
+          "time": "07/13/2020",
+          "orderNumber": "88622",
+          "company": "Carolina Logistics",
+          "cities": "FRANKLIN PARK, IL - STERLING HEIGHTS, MI",
+          "rate": "550"
+        },
+        {
+          "time": "07/13/2020",
+          "orderNumber": "88623",
+          "company": "Carolina Logistics",
+          "cities": "CHURCHVILLE, NY - PERRY, GA",
+          "rate": "880"
+        },
+        {
+          "time": "07/13/2020",
+          "orderNumber": "88642",
+          "company": "Carolina Logistics",
+          "cities": "ERLANGER, KY - CHICAGO, IL",
+          "rate": "370"
+        },
+        {
+          "time": "07/13/2020",
+          "orderNumber": "88654",
+          "company": "Carolina Logistics",
+          "cities": "RENO, NV - SAN ANTONIO, TX",
+          "rate": "2100"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88661",
+          "company": "Carolina Logistics",
+          "cities": "ALEXANDRIA BAY, NY - DAYTON, NJ",
+          "rate": "1100"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88664",
+          "company": "Carolina Logistics",
+          "cities": "ELMA, NY - BAYSIDE, NY",
+          "rate": "875"
+        },
+        {
+          "time": "07/13/2020",
+          "orderNumber": "88665",
+          "company": "Carolina Logistics",
+          "cities": "BOISE, ID - KANSAS CITY, MO",
+          "rate": "1325"
+        },
+        {
+          "time": "07/13/2020",
+          "orderNumber": "88637",
+          "company": "Carolina Logistics",
+          "cities": "NEWARK, NJ - GRAND ISLAND, NY",
+          "rate": "700"
+        },
+        {
+          "time": "07/13/2020",
+          "orderNumber": "88638",
+          "company": "Carolina Logistics",
+          "cities": "WILLOW SPRINGS, IL - NORTH KANSAS CITY, MO",
+          "rate": "625"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88668",
+          "company": "Carolina Logistics",
+          "cities": "WILMINGTON, IL - OCALA, FL",
+          "rate": "1550"
+        },
+        {
+          "time": "07/13/2020",
+          "orderNumber": "88669",
+          "company": "Carolina Logistics",
+          "cities": "COLUMBIANA, OH - HACKETTSTOWN, NJ",
+          "rate": "500"
+        },
+        {
+          "time": "07/13/2020",
+          "orderNumber": "88670",
+          "company": "Carolina Logistics",
+          "cities": "LAREDO, TX - AUBURN HILLS, MI",
+          "rate": "1200"
+        },
+        {
+          "time": "07/13/2020",
+          "orderNumber": "88671",
+          "company": "Carolina Logistics",
+          "cities": "SHREVEPORT, LA - CLIFTON, KS",
+          "rate": "660"
+        },
+        {
+          "time": "07/13/2020",
+          "orderNumber": "88672",
+          "company": "Carolina Logistics",
+          "cities": "LEMONT, IL - BRACEVILLE, IL",
+          "rate": "275"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88675",
+          "company": "Carolina Logistics",
+          "cities": "EAST BOSTON, MA - N DIGHTON, MA",
+          "rate": "200"
+        },
+        {
+          "time": "07/13/2020",
+          "orderNumber": "88677",
+          "company": "Carolina Logistics",
+          "cities": "TOLEDO, OH - FOREST, MS",
+          "rate": "1850"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88678",
+          "company": "Carolina Logistics",
+          "cities": "LAS VEGAS, NV - CEDAR CITY, UT",
+          "rate": "550"
+        },
+        {
+          "time": "07/13/2020",
+          "orderNumber": "88680",
+          "company": "Carolina Logistics",
+          "cities": "BEMENT, IL - NAZARETH, PA",
+          "rate": "1400"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88682",
+          "company": "Carolina Logistics",
+          "cities": "GREENVILLE, SC - MARMADUKE, AR",
+          "rate": "950"
+        },
+        {
+          "time": "07/13/2020",
+          "orderNumber": "88684",
+          "company": "Carolina Logistics",
+          "cities": "GROVELAND, FL - ALLENTOWN, PA",
+          "rate": "800"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88685",
+          "company": "Carolina Logistics",
+          "cities": "EVANSVILLE, IN - NAPERVILLE, IL",
+          "rate": "425"
+        },
+        {
+          "time": "07/13/2020",
+          "orderNumber": "88686",
+          "company": "Carolina Logistics",
+          "cities": "BELMONT, MI - GREENVILLE, SC",
+          "rate": "790"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88692",
+          "company": "Carolina Logistics",
+          "cities": "PATASKALA, OH - EDWARDSBURG, MI",
+          "rate": "0"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88693",
+          "company": "Carolina Logistics",
+          "cities": "SANTA FE SPRINGS, CA - WEST SACRAMENTO, CA",
+          "rate": "450"
+        },
+        {
+          "time": "07/13/2020",
+          "orderNumber": "88694",
+          "company": "Carolina Logistics",
+          "cities": "EULESS, TX - FORT PAYNE, AL",
+          "rate": "620"
+        }
+      ],
+      "id": 20
+    },
+    {
+      "date": "7.14.2020",
+      "records": [
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88701",
+          "company": "Carolina Logistics",
+          "cities": "PIGGOTT, AR - BUFFALO SPGS, TX",
+          "rate": "850"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88702",
+          "company": "Carolina Logistics",
+          "cities": "LA FAYETTE, GA - WOODSTOCK, AL",
+          "rate": "350"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88703",
+          "company": "Carolina Logistics",
+          "cities": "RENO, NV - ALBUQUERQUE, NM",
+          "rate": "1600"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88708",
+          "company": "Carolina Logistics",
+          "cities": "WILMINGTON, MA - PINE BROOK, NJ",
+          "rate": "550"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88710",
+          "company": "Carolina Logistics",
+          "cities": "JAMAICA, NY - SIDNEY, NY",
+          "rate": "450"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88711",
+          "company": "Carolina Logistics",
+          "cities": "SPRINGFIELD, MO - OAKVILLE, ON",
+          "rate": "1080"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88713",
+          "company": "Carolina Logistics",
+          "cities": "SAN ANTONIO, TX - JACKSONVILLE, FL",
+          "rate": "1400"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88715",
+          "company": "Carolina Logistics",
+          "cities": "SAINT LOUIS, MO - COLUMBIA, KY",
+          "rate": "600"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88718",
+          "company": "Carolina Logistics",
+          "cities": "DAYTON, NJ - MEDFORD, NY",
+          "rate": "550"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88721",
+          "company": "Carolina Logistics",
+          "cities": "SOUTH HOLLAND, IL - MANCHESTER, NH",
+          "rate": "1450"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88723",
+          "company": "Carolina Logistics",
+          "cities": "OLATHE, KS - CRESTWOOD, MO",
+          "rate": "525"
+        },
+        {
+          "time": "07/11/2020",
+          "orderNumber": "88545",
+          "company": "Carolina Logistics",
+          "cities": "CHARLESTON, TN - MURFREESBORO, TN",
+          "rate": "53 "
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88730",
+          "company": "Carolina Logistics",
+          "cities": "STAFFORD, TX - DODGE CITY, KS",
+          "rate": "640"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88731",
+          "company": "Carolina Logistics",
+          "cities": "ATTICA, IN - COMMERCE, GA",
+          "rate": "1050"
+        },
+        {
+          "time": "07/13/2020",
+          "orderNumber": "88598",
+          "company": "Carolina Logistics",
+          "cities": "MINNEAPOLIS, MN - KOKOMO, IN",
+          "rate": "490"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88733",
+          "company": "Carolina Logistics",
+          "cities": "KENTWOOD, MI - LIVERMORE, CA",
+          "rate": "2500"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88735",
+          "company": "Carolina Logistics",
+          "cities": "DORAL, FL - SHREVEPORT, LA",
+          "rate": "950"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88737",
+          "company": "Carolina Logistics",
+          "cities": "PISCATAWAY, NJ - ROCKWOOD, MI",
+          "rate": "480"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88742",
+          "company": "Carolina Logistics",
+          "cities": "NEWPORT, MN - SHEBOYGAN, WI",
+          "rate": "580"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88744",
+          "company": "Carolina Logistics",
+          "cities": "HOLLYWOOD, AL - FARMINGTON, MI",
+          "rate": "550"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88749",
+          "company": "Carolina Logistics",
+          "cities": "FLINT, MI - BRIGHTON, MI",
+          "rate": "175"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88754",
+          "company": "Carolina Logistics",
+          "cities": "IRWINDALE, CA - BRISBANE, CA",
+          "rate": "450"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88752",
+          "company": "Carolina Logistics",
+          "cities": "CAIRO, GA - DAYTON, OH",
+          "rate": "650"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88760",
+          "company": "Carolina Logistics",
+          "cities": "PATUXENT RVR, MD - WEATHERFORD, TX",
+          "rate": "1850"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88761",
+          "company": "Carolina Logistics",
+          "cities": "KEARNY, NJ - PORTLAND, OR",
+          "rate": "3000"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88766",
+          "company": "Carolina Logistics",
+          "cities": "IUKA, MS - ONALASKA, WI",
+          "rate": "730"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88768",
+          "company": "Carolina Logistics",
+          "cities": "ELK GROVE VILLAGE, IL - WESTBOROUGH, MA",
+          "rate": "1750"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88770",
+          "company": "Carolina Logistics",
+          "cities": "LA FERIA, TX - ROMA, TX",
+          "rate": "300"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88771",
+          "company": "Carolina Logistics",
+          "cities": "MIAMISBURG, OH - SUNNYVALE, TX",
+          "rate": "1450"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88774",
+          "company": "Carolina Logistics",
+          "cities": "DES PLAINES, IL - WILLOWBROOK, IL",
+          "rate": "350"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88781",
+          "company": "Carolina Logistics",
+          "cities": "NEW BOSTON, MI - GREENVILLE, NC",
+          "rate": "1200"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88765",
+          "company": "Carolina Logistics",
+          "cities": "QUINCY, MI - BROWNSBURG, IN",
+          "rate": "550"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88791",
+          "company": "Carolina Logistics",
+          "cities": "ATLANTIC, IA - LAKEWOOD, NY",
+          "rate": "777"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88785",
+          "company": "Carolina Logistics",
+          "cities": "SPARKS, NV - GARDEN GROVE, CA",
+          "rate": "460"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88794",
+          "company": "Carolina Logistics",
+          "cities": "LAREDO, TX - ARCADE, NY",
+          "rate": "2650"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88793",
+          "company": "Carolina Logistics",
+          "cities": "CLINTON TOWNSHIP, MI - OWENSBORO, KY",
+          "rate": "500"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88797",
+          "company": "Carolina Logistics",
+          "cities": "NAPOLEON, OH - MAXTON, NC",
+          "rate": "625"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88801",
+          "company": "Carolina Logistics",
+          "cities": "COLUMBUS, OH - ARLINGTON, TX",
+          "rate": "950"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88807",
+          "company": "Carolina Logistics",
+          "cities": "EDEN, NC - MEDINA, OH",
+          "rate": "650"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "88808",
+          "company": "Carolina Logistics",
+          "cities": "LAREDO, TX - BLUE SPRINGS, MS",
+          "rate": "1400"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88810",
+          "company": "Carolina Logistics",
+          "cities": "ERLANGER, KY - CHATTANOOGA, TN",
+          "rate": "850"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88812",
+          "company": "Carolina Logistics",
+          "cities": "GARY, IN - HARRISBURG, NC",
+          "rate": "700"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88816",
+          "company": "Carolina Logistics",
+          "cities": "MCALLEN, TX - SAN JOSE, CA",
+          "rate": "3200"
+        },
+        {
+          "time": "07/14/2020",
+          "orderNumber": "88818",
+          "company": "Carolina Logistics",
+          "cities": "ARLINGTON, TX - MCALLEN, TX",
+          "rate": "450"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88823",
+          "company": "Carolina Logistics",
+          "cities": "GREER, SC - CHARLOTTE, NC",
+          "rate": "400"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88821",
+          "company": "Carolina Logistics",
+          "cities": "IMLAY CITY, MI - LEWISBURG, TN",
+          "rate": "570"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88824",
+          "company": "Carolina Logistics",
+          "cities": "FORT WAYNE, IN - NEW HAVEN, CT",
+          "rate": "660"
+        }
+      ],
+      "id": 21
+    },
+    {
+      "date": "7.15.2020",
+      "records": [
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88831",
+          "company": "Carolina Logistics",
+          "cities": "BREMEN, IN - HERMANSVILLE, MI",
+          "rate": "550"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88833",
+          "company": "Carolina Logistics",
+          "cities": "OKLAHOMA CITY, OK - TULSA, OK",
+          "rate": "170"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88834",
+          "company": "Carolina Logistics",
+          "cities": "MORRISVILLE, NC - EDEN PRAIRIE, MN",
+          "rate": "1700"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88835",
+          "company": "Carolina Logistics",
+          "cities": "FORT WORTH, TX - YORK, PA",
+          "rate": "1650"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88837",
+          "company": "Carolina Logistics",
+          "cities": "VISALIA, CA - PETALUMA, CA",
+          "rate": "500"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88839",
+          "company": "Carolina Logistics",
+          "cities": "BELTON, SC - JONESBORO, AR",
+          "rate": "560"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88842",
+          "company": "Carolina Logistics",
+          "cities": "TECOLOTE, NM - LA PORTE, TX",
+          "rate": "700"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88841",
+          "company": "Carolina Logistics",
+          "cities": "DEARBORN, MI - FREDERICK, MD",
+          "rate": "450"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88844",
+          "company": "Carolina Logistics",
+          "cities": "SUGAR LAND, TX - SPRINGDALE, AR",
+          "rate": "470"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88845",
+          "company": "Carolina Logistics",
+          "cities": "ATTLEBORO, MA - MINDEN, LA",
+          "rate": "1400"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88848",
+          "company": "Carolina Logistics",
+          "cities": "MABANK, TX - CLAY CITY, KY",
+          "rate": "1200"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88849",
+          "company": "Carolina Logistics",
+          "cities": "RICHMOND, VA - BESSEMER, AL",
+          "rate": "850"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88850",
+          "company": "Carolina Logistics",
+          "cities": "GARDENA, CA - SAN FRANCISCO, CA",
+          "rate": "500"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88852",
+          "company": "Carolina Logistics",
+          "cities": "BOSTON, MA - DURHAM, NC",
+          "rate": "850"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88853",
+          "company": "Carolina Logistics",
+          "cities": "VAN BUREN TWP, MI - WHEELING, IL",
+          "rate": "375"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88854",
+          "company": "Carolina Logistics",
+          "cities": "HAYWARD, CA - LOS ANGELES, CA",
+          "rate": "500"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88855",
+          "company": "Carolina Logistics",
+          "cities": "FRIDLEY, MN - TROY, MI",
+          "rate": "850"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88862",
+          "company": "Carolina Logistics",
+          "cities": "BROWNSVILLE, TX - HUMBLE, TX",
+          "rate": "600"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88867",
+          "company": "Carolina Logistics",
+          "cities": "YORK, PA - HOP BOTTOM, PA",
+          "rate": "370"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88869",
+          "company": "Carolina Logistics",
+          "cities": "BARTOW, FL - BROOKSVILLE, FL",
+          "rate": "350"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88871",
+          "company": "Carolina Logistics",
+          "cities": "SAINT MICHAEL, MN - WELLSVILLE, OH",
+          "rate": "700"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88872",
+          "company": "Carolina Logistics",
+          "cities": "WEST MEMPHIS, AR - CLEARWATER, FL",
+          "rate": "800"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88874",
+          "company": "Carolina Logistics",
+          "cities": "SAINT PAUL, MN - HEBRON, KY",
+          "rate": "950"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88878",
+          "company": "Carolina Logistics",
+          "cities": "BRUNSWICK, GA - INDIANAPOLIS, IN",
+          "rate": "800"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88870",
+          "company": "Carolina Logistics",
+          "cities": "HILLSIDE, IL - GALENA, IL",
+          "rate": "275"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88885",
+          "company": "Carolina Logistics",
+          "cities": "DAYTON, NJ - PHILADELPHIA, PA",
+          "rate": "400"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88888",
+          "company": "Carolina Logistics",
+          "cities": "DALLAS, TX - JAMAICA, NY",
+          "rate": "1800"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88890",
+          "company": "Carolina Logistics",
+          "cities": "STERLING, VA - FRANKLINTON, NC",
+          "rate": "600"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88893",
+          "company": "Carolina Logistics",
+          "cities": "YUMA, AZ - MEBANE, NC",
+          "rate": "2700"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88894",
+          "company": "Carolina Logistics",
+          "cities": "BROCKTON, MA - NEW YORK, NY",
+          "rate": "350"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88895",
+          "company": "Carolina Logistics",
+          "cities": "ST CHARLES, IL - CONNERSVILLE, IN",
+          "rate": "400"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88896",
+          "company": "Carolina Logistics",
+          "cities": "SPRING, TX - COYANOSA, TX",
+          "rate": "950"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88897",
+          "company": "Carolina Logistics",
+          "cities": "MANNING, SC - GRAMERCY, LA",
+          "rate": "950"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88899",
+          "company": "Carolina Logistics",
+          "cities": "PINEVILLE, LA - JACKSON CENTER, OH",
+          "rate": "830"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88912",
+          "company": "Carolina Logistics",
+          "cities": "CARROLLTON, TX - NEWAYGO, MI",
+          "rate": "1650"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88914",
+          "company": "Carolina Logistics",
+          "cities": "MCALLEN, TX - MADISON, MS",
+          "rate": "800"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88915",
+          "company": "Carolina Logistics",
+          "cities": "BEDFORD, PA - DETROIT, MI",
+          "rate": "525"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88916",
+          "company": "Carolina Logistics",
+          "cities": "PHOENIX, AZ - CALEXICO, CA",
+          "rate": "450"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88918",
+          "company": "Carolina Logistics",
+          "cities": "STOCKTON, CA - BOISE, ID",
+          "rate": "1800"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88919",
+          "company": "Carolina Logistics",
+          "cities": "JURUPA VALLEY, CA - CITY OF INDUSTRY, CA",
+          "rate": "150"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88920",
+          "company": "Carolina Logistics",
+          "cities": "YORK, PA - ERLANGER, KY",
+          "rate": "900"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88921",
+          "company": "Carolina Logistics",
+          "cities": "GREEN COVE SPRINGS, FL - LUCASVILLE, OH",
+          "rate": "800"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88922",
+          "company": "Carolina Logistics",
+          "cities": "ERLANGER, KY - SOMERSET, NJ",
+          "rate": "1100"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88923",
+          "company": "Carolina Logistics",
+          "cities": "STORY CITY, IA - FOREST CITY, PA",
+          "rate": "1025"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88925",
+          "company": "Carolina Logistics",
+          "cities": "CHARLOTTE, NC - POMPANO BEACH, FL",
+          "rate": "1000"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88926",
+          "company": "Carolina Logistics",
+          "cities": "EVANSVILLE, IN - HARRISBURG, PA",
+          "rate": "1400"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88928",
+          "company": "Carolina Logistics",
+          "cities": "BIRMINGHAM, AL - INTRACOASTAL CITY, LA",
+          "rate": "725"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88934",
+          "company": "Carolina Logistics",
+          "cities": "VISALIA, CA - SAN FRANCISCO, CA",
+          "rate": "800"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88935",
+          "company": "Carolina Logistics",
+          "cities": "TORRANCE, CA - SAHUARITA, AZ",
+          "rate": "600"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88937",
+          "company": "Carolina Logistics",
+          "cities": "ARCADIA, CA - CHANDLER, AZ",
+          "rate": "650"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88940",
+          "company": "Carolina Logistics",
+          "cities": "GARDENA, CA - LIVERMORE, CA",
+          "rate": "650"
+        },
+        {
+          "time": "07/15/2020",
+          "orderNumber": "88946",
+          "company": "Carolina Logistics",
+          "cities": "VALENCIA, CA - WICHITA, KS",
+          "rate": "1150"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88944",
+          "company": "Carolina Logistics",
+          "cities": "COLUMBUS, OH - ONTARIO, CA",
+          "rate": "2300"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88948",
+          "company": "Carolina Logistics",
+          "cities": "HAMLET, NC - HAMLET, NC",
+          "rate": "900"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88949",
+          "company": "Carolina Logistics",
+          "cities": "PLANO, TX - AMARILLO, TX",
+          "rate": "850"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88950",
+          "company": "Carolina Logistics",
+          "cities": "LATROBE, PA - SCARBOROUGH, ME",
+          "rate": "600"
+        }
+      ],
+      "id": 22
+    },
+    {
+      "date": "7.16.2020",
+      "records": [
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88959",
+          "company": "Carolina Logistics",
+          "cities": "MORGANTOWN, PA - RYDAL, GA",
+          "rate": "650"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88958",
+          "company": "Carolina Logistics",
+          "cities": "RANCHO DOMINGUEZ, CA - EL PASO, TX",
+          "rate": "665"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88961",
+          "company": "Carolina Logistics",
+          "cities": "DALLAS, TX - MOUNT CRAWFORD, VA",
+          "rate": "1450"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88967",
+          "company": "Carolina Logistics",
+          "cities": "FRANKLINTON, NC - WILSONVILLE, OR",
+          "rate": "3150"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88969",
+          "company": "Carolina Logistics",
+          "cities": "KALEVA, MI - ROME, GA",
+          "rate": "750"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88970",
+          "company": "Carolina Logistics",
+          "cities": "FORT LAUDERDALE, FL - MENA, AR",
+          "rate": "1170"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88971",
+          "company": "Carolina Logistics",
+          "cities": "MONROE, MI - DUNLAP, TN",
+          "rate": "500"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88972",
+          "company": "Carolina Logistics",
+          "cities": "CLINTON TOWNSHIP, MI - OWENSBORO, KY",
+          "rate": "650"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88974",
+          "company": "Carolina Logistics",
+          "cities": "LEBANON, NJ - JAMAICA, NY",
+          "rate": "200"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88976",
+          "company": "Carolina Logistics",
+          "cities": "BELEN, NM - ROCKFORD, IL",
+          "rate": "1800"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88978",
+          "company": "Carolina Logistics",
+          "cities": "DESOTO, TX - DAVENPORT, FL",
+          "rate": "1175"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88979",
+          "company": "Carolina Logistics",
+          "cities": "SHELBYVILLE, KY - ROCKFORD, IL",
+          "rate": "750"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88981",
+          "company": "Carolina Logistics",
+          "cities": "GARNER, NC - DECATUR, AL",
+          "rate": "530"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88985",
+          "company": "Carolina Logistics",
+          "cities": "TOMBALL, TX - LAKE, MI",
+          "rate": "1120"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88986",
+          "company": "Carolina Logistics",
+          "cities": "GURNEE, IL - QUINCY, MI",
+          "rate": "300"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88988",
+          "company": "Carolina Logistics",
+          "cities": "COLLEGE PARK, GA - BATON ROUGE, LA",
+          "rate": "975"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88989",
+          "company": "Carolina Logistics",
+          "cities": "LIBERTY, MO - LOUISVILLE, KY",
+          "rate": "500"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88990",
+          "company": "Carolina Logistics",
+          "cities": "NEW HOLLAND, PA - UNION CITY, TN",
+          "rate": "700"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88991",
+          "company": "Carolina Logistics",
+          "cities": "MELVILLE, NY - GREELEY, CO",
+          "rate": "3000"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88993",
+          "company": "Carolina Logistics",
+          "cities": "JOHNSTOWN, NY - ORLANDO, FL",
+          "rate": "1650"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88994",
+          "company": "Carolina Logistics",
+          "cities": "SEATTLE, WA - MADERA, CA",
+          "rate": "850"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88998",
+          "company": "Carolina Logistics",
+          "cities": "ORLANDO, FL - ORLANDO, FL",
+          "rate": "150"
+        },
+        {
+          "time": "07/20/2020",
+          "orderNumber": "89000",
+          "company": "Carolina Logistics",
+          "cities": "AUBURN HILLS, MI - SAXONBURG, PA",
+          "rate": "450"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "88999",
+          "company": "Carolina Logistics",
+          "cities": "ANNA, IL - HAMMOND, IN",
+          "rate": "700"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "89020",
+          "company": "Carolina Logistics",
+          "cities": "TAMPA, FL - ELMHURST, IL",
+          "rate": "1300"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89022",
+          "company": "Carolina Logistics",
+          "cities": "ELK GROVE VILLAGE, IL - WESTBOROUGH, MA",
+          "rate": "1750"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "89024",
+          "company": "Carolina Logistics",
+          "cities": "FOXBORO, MA - WESTBOROUGH, MA",
+          "rate": "175"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "89025",
+          "company": "Carolina Logistics",
+          "cities": "TACOMA, WA - HELENA, MT",
+          "rate": "835"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "89027",
+          "company": "Carolina Logistics",
+          "cities": "TACOMA, WA - HELENA, MT",
+          "rate": "0"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89029",
+          "company": "Carolina Logistics",
+          "cities": "BLOOMINGTON, IL - SAN CLEMENTE, CA",
+          "rate": "3000"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89033",
+          "company": "Carolina Logistics",
+          "cities": "ALEXANDRIA, IN - GRAND PRAIRIE, TX",
+          "rate": "1300"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89034",
+          "company": "Carolina Logistics",
+          "cities": "VALLEY STREAM, NY - ROCKVILLE, MD",
+          "rate": "600"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "89035",
+          "company": "Carolina Logistics",
+          "cities": "ROSAMOND, CA - PEORIA, IL",
+          "rate": "1300"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89036",
+          "company": "Carolina Logistics",
+          "cities": "MAXTON, NC - MOKENA, IL",
+          "rate": "1000"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "89039",
+          "company": "Carolina Logistics",
+          "cities": "DES PLAINES, IL - CINCINNATI, OH",
+          "rate": "450"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "89042",
+          "company": "Carolina Logistics",
+          "cities": "VALPARAISO, IN - ALTOONA, IA",
+          "rate": "1200"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "89044",
+          "company": "Carolina Logistics",
+          "cities": "HICKORY, NC - KALAMAZOO, MI",
+          "rate": "550"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "89041",
+          "company": "Carolina Logistics",
+          "cities": "MARSHALL, NC - KANSAS CITY, MO",
+          "rate": "700"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89048",
+          "company": "Carolina Logistics",
+          "cities": "STOCKTON, CA - LOVELOCK, NV",
+          "rate": "700"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89050",
+          "company": "Carolina Logistics",
+          "cities": "ARLINGTON, TX - AURORA, CO",
+          "rate": "1000"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "89051",
+          "company": "Carolina Logistics",
+          "cities": "GARDENA, CA - WAUKEGAN, IL",
+          "rate": "2250"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89055",
+          "company": "Carolina Logistics",
+          "cities": "CLARKSVILLE, AR - WALTON, KY",
+          "rate": "625"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89058",
+          "company": "Carolina Logistics",
+          "cities": "SOUTH HOLLAND, IL - BOSTON, MA",
+          "rate": "1450"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89062",
+          "company": "Carolina Logistics",
+          "cities": "PHOENIX, AZ - LONGMONT, CO",
+          "rate": "1200"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89064",
+          "company": "Carolina Logistics",
+          "cities": "SUMMIT, MS - PENSACOLA, FL",
+          "rate": "800"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89061",
+          "company": "Carolina Logistics",
+          "cities": "MORGANTON, NC - CHICAGO, IL",
+          "rate": "950"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89067",
+          "company": "Carolina Logistics",
+          "cities": "HERNDON, VA - LARGO, FL",
+          "rate": "1650"
+        },
+        {
+          "time": "07/16/2020",
+          "orderNumber": "89049",
+          "company": "Carolina Logistics",
+          "cities": "SAN DIEGO, CA - PALO ALTO, CA",
+          "rate": "60"
+        }
+      ],
+      "id": 23
+    },
+    {
+      "date": "7.17.2020",
+      "records": [
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89078",
+          "company": "Carolina Logistics",
+          "cities": "CHARLOTTE, NC - TAYLORSVILLE, NC",
+          "rate": "300"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89080",
+          "company": "Carolina Logistics",
+          "cities": "MILLINGTON, TN - WATFORD CITY, ND",
+          "rate": "2400"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89081",
+          "company": "Carolina Logistics",
+          "cities": "EL PASO, TX - EL PASO, TX",
+          "rate": "200"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89085",
+          "company": "Carolina Logistics",
+          "cities": "NORTH PROVIDENCE, RI - BENNINGTON, VT",
+          "rate": "350"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89086",
+          "company": "Carolina Logistics",
+          "cities": "SUNNYVALE, TX - MIAMISBURG, OH",
+          "rate": "1250"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89088",
+          "company": "Carolina Logistics",
+          "cities": "NEWARK, NJ - JACKSONVILLE, FL",
+          "rate": "840"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89089",
+          "company": "Carolina Logistics",
+          "cities": "MARSHALL, TX - PRINCE GEORGE, VA",
+          "rate": "1400"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89096",
+          "company": "Carolina Logistics",
+          "cities": "CHESTERFIELD, MO - BRIDGEVIEW, IL",
+          "rate": "625"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89098",
+          "company": "Carolina Logistics",
+          "cities": "BLUE SPRINGS, MO - AUBURN HILLS, MI",
+          "rate": "615"
+        },
+        {
+          "time": "07/20/2020",
+          "orderNumber": "89101",
+          "company": "Carolina Logistics",
+          "cities": "PHILADELPHIA, PA - DAYTON, NJ",
+          "rate": "400"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89102",
+          "company": "Carolina Logistics",
+          "cities": "HOUSTON, TX - SAN ANTONIO, TX",
+          "rate": "550"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89104",
+          "company": "Carolina Logistics",
+          "cities": "NORFOLK, VA - MOBILE, AL",
+          "rate": "1200"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89103",
+          "company": "Carolina Logistics",
+          "cities": "ASSUMPTION, IL - DE WITT, AR",
+          "rate": "750"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89113",
+          "company": "Carolina Logistics",
+          "cities": "AURORA, IL - CICERO, IL",
+          "rate": "350"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89119",
+          "company": "Carolina Logistics",
+          "cities": "SAINT JOSEPH, MO - MONMOUTH, IL",
+          "rate": "450"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89121",
+          "company": "Carolina Logistics",
+          "cities": "PHARR, TX - SENECA, SC",
+          "rate": "1000"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89135",
+          "company": "Carolina Logistics",
+          "cities": "WEST VALLEY, UT - SALT LAKE CITY, UT",
+          "rate": "400"
+        },
+        {
+          "time": "07/20/2020",
+          "orderNumber": "89143",
+          "company": "Carolina Logistics",
+          "cities": "MASON, MI - LEOLA, PA",
+          "rate": "550"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89147",
+          "company": "Carolina Logistics",
+          "cities": "SEATAC, WA - TACOMA, WA",
+          "rate": "150"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89149",
+          "company": "Carolina Logistics",
+          "cities": "ORLANDO, FL - DALLAS, TX",
+          "rate": "1100"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89152",
+          "company": "Carolina Logistics",
+          "cities": "HASLET, TX - INDIANAPOLIS, IN",
+          "rate": "850"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89155",
+          "company": "Carolina Logistics",
+          "cities": "HUMBLE, TX - HUNTSVILLE, AL",
+          "rate": "900"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89161",
+          "company": "Carolina Logistics",
+          "cities": "HOLSTEIN, IA - HAUPPAUGE, NY",
+          "rate": "1250"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89164",
+          "company": "Carolina Logistics",
+          "cities": "LITTLETON, NH - SAULT SAINTE MARIE, MI",
+          "rate": "1500"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89170",
+          "company": "Carolina Logistics",
+          "cities": "WICHITA, KS - AJAX, ON",
+          "rate": "1700"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89172",
+          "company": "Carolina Logistics",
+          "cities": "AUBURN, WA - LAS VEGAS, NV",
+          "rate": "1350"
+        },
+        {
+          "time": "07/20/2020",
+          "orderNumber": "89169",
+          "company": "Carolina Logistics",
+          "cities": "PLYMOUTH, MI - PATTERSON, CA",
+          "rate": "2000"
+        },
+        {
+          "time": "07/20/2020",
+          "orderNumber": "89178",
+          "company": "Carolina Logistics",
+          "cities": "STERLING HEIGHTS, MI - MANSFIELD, OH",
+          "rate": "350"
+        },
+        {
+          "time": "07/17/2020",
+          "orderNumber": "89181",
+          "company": "Carolina Logistics",
+          "cities": "BLOOMINGTON, CA - PERRIS, CA",
+          "rate": "250"
+        }
+      ],
+      "id": 24
+    },
+    {
+      "date": "8.17.2020",
+      "records": [
+        {
+          "time": "08/17/2020",
+          "orderNumber": "91958",
+          "company": "Carolina Logistics",
+          "cities": "STERLING HEIGHTS, MI - CHICAGO, IL",
+          "rate": "450"
+        },
+        {
+          "time": "08/17/2020",
+          "orderNumber": "91964",
+          "company": "Carolina Logistics",
+          "cities": "NEW YORK, NY - COLUMBUS, OH",
+          "rate": "500"
+        },
+        {
+          "time": "08/17/2020",
+          "orderNumber": "91967",
+          "company": "Carolina Logistics",
+          "cities": "SAINT PAUL, MN - LOUISVILLE, KY",
+          "rate": "700"
+        },
+        {
+          "time": "08/17/2020",
+          "orderNumber": "91971",
+          "company": "Carolina Logistics",
+          "cities": "NEW BERLIN, WI - SHADY GROVE, PA",
+          "rate": "660"
+        },
+        {
+          "time": "08/17/2020",
+          "orderNumber": "91973",
+          "company": "Carolina Logistics",
+          "cities": "ALLENTOWN, PA - SELBYVILLE, DE",
+          "rate": "375"
+        },
+        {
+          "time": "08/17/2020",
+          "orderNumber": "91976",
+          "company": "Carolina Logistics",
+          "cities": "JAMAICA, NY - WASHINGTON, DC",
+          "rate": "900"
+        },
+        {
+          "time": "08/17/2020",
+          "orderNumber": "91983",
+          "company": "Carolina Logistics",
+          "cities": "WARMINSTER, PA - OMAHA, NE",
+          "rate": "1600"
+        },
+        {
+          "time": "08/17/2020",
+          "orderNumber": "91985",
+          "company": "Carolina Logistics",
+          "cities": "MOORE, SC - ASHEBORO, NC",
+          "rate": "250"
+        },
+        {
+          "time": "08/17/2020",
+          "orderNumber": "91986",
+          "company": "Carolina Logistics",
+          "cities": "JACKSONVILLE, NC - ROCK HILL, SC",
+          "rate": "350"
+        },
+        {
+          "time": "08/17/2020",
+          "orderNumber": "91990",
+          "company": "Carolina Logistics",
+          "cities": "VALLEY STREAM, NY - MIDDLETOWN, NY",
+          "rate": "330"
+        },
+        {
+          "time": "08/17/2020",
+          "orderNumber": "91991",
+          "company": "Carolina Logistics",
+          "cities": "TONAWANDA, NY - MARLBOROUGH, MA",
+          "rate": "450"
+        },
+        {
+          "time": "08/17/2020",
+          "orderNumber": "91998",
+          "company": "Carolina Logistics",
+          "cities": "DALTON, GA - PADUCAH, KY",
+          "rate": "525"
+        },
+        {
+          "time": "08/17/2020",
+          "orderNumber": "92000",
+          "company": "Carolina Logistics",
+          "cities": "CAMDEN, NJ - NEW HAVEN, CT",
+          "rate": "400"
+        },
+        {
+          "time": "08/17/2020",
+          "orderNumber": "92002",
+          "company": "Carolina Logistics",
+          "cities": "ELK GROVE VILLAGE, IL - DAYTON, TX",
+          "rate": "1650"
+        },
+        {
+          "time": "08/17/2020",
+          "orderNumber": "92012",
+          "company": "Carolina Logistics",
+          "cities": "LINCOLN, NE - DALLAS, TX",
+          "rate": "830"
+        },
+        {
+          "time": "08/18/2020",
+          "orderNumber": "92016",
+          "company": "Carolina Logistics",
+          "cities": "CHINO, CA - NASHVILLE, TN",
+          "rate": "1300"
+        },
+        {
+          "time": "08/18/2020",
+          "orderNumber": "92042",
+          "company": "Carolina Logistics",
+          "cities": "COLFAX, IL - OLIVE BRANCH, MS",
+          "rate": "850"
+        },
+        {
+          "time": "08/18/2020",
+          "orderNumber": "92048",
+          "company": "Carolina Logistics",
+          "cities": "PERTH AMBOY, NJ - BUFFALO, NY",
+          "rate": "500"
+        },
+        {
+          "time": "08/18/2020",
+          "orderNumber": "92045",
+          "company": "Carolina Logistics",
+          "cities": "BUFFALO, NY - PERTH AMBOY, NJ",
+          "rate": "500"
+        },
+        {
+          "time": "08/17/2020",
+          "orderNumber": "92050",
+          "company": "Carolina Logistics",
+          "cities": "CORDOVA, IL - NEBRASKA CITY, NE",
+          "rate": "600"
+        },
+        {
+          "time": "08/10/2020",
+          "orderNumber": "92064",
+          "company": "Carolina Logistics",
+          "cities": "LOS ANGELES, CA - CARSON, CA",
+          "rate": "0"
+        },
+        {
+          "time": "08/18/2020",
+          "orderNumber": "92071",
+          "company": "Carolina Logistics",
+          "cities": "SPRINGFIELD, MO - GADSDEN, AL",
+          "rate": "1350"
+        },
+        {
+          "time": "08/18/2020",
+          "orderNumber": "92065",
+          "company": "Carolina Logistics",
+          "cities": "PARK FOREST, IL - KANSAS CITY, MO",
+          "rate": "600"
+        },
+        {
+          "time": "08/17/2020",
+          "orderNumber": "92077",
+          "company": "Carolina Logistics",
+          "cities": "NEW BRIGHTON, MN - FIFE, WA",
+          "rate": "3600"
+        },
+        {
+          "time": "08/17/2020",
+          "orderNumber": "92083",
+          "company": "Carolina Logistics",
+          "cities": "CHESTERFIELD, MO - BATON ROUGE, LA",
+          "rate": "950"
+        },
+        {
+          "time": "08/17/2020",
+          "orderNumber": "92087",
+          "company": "Carolina Logistics",
+          "cities": "LAS VEGAS, NV - GRAPEVINE, TX",
+          "rate": "1375"
+        },
+        {
+          "time": "08/17/2020",
+          "orderNumber": "92082",
+          "company": "Carolina Logistics",
+          "cities": "SAN BERNARDINO, CA - PROVO, UT",
+          "rate": "675"
+        },
+        {
+          "time": "08/18/2020",
+          "orderNumber": "92094",
+          "company": "Carolina Logistics",
+          "cities": "TINLEY PARK, IL - NICHOLS, NY",
+          "rate": "1800"
+        },
+        {
+          "time": "08/17/2020",
+          "orderNumber": "92110",
+          "company": "Carolina Logistics",
+          "cities": "TRENTON, NJ - WAUKEGAN, IL",
+          "rate": "900"
+        }
+      ],
+      "id": 25
+    },
+    {
+      "date": "8.18.2020",
+      "records": [
+        {
+          "time": "08/18/2020",
+          "orderNumber": "92119",
+          "company": "Carolina Logistics",
+          "cities": "FALLBROOK, CA - OCHELATA, OK",
+          "rate": "1700"
+        },
+        {
+          "time": "08/18/2020",
+          "orderNumber": "92123",
+          "company": "Carolina Logistics",
+          "cities": "HUDSON, CO - OKLAHOMA CITY, OK",
+          "rate": "800"
+        },
+        {
+          "time": "08/18/2020",
+          "orderNumber": "92129",
+          "company": "Carolina Logistics",
+          "cities": "ERIE, PA - PEORIA, IL",
+          "rate": "1100"
+        },
+        {
+          "time": "08/18/2020",
+          "orderNumber": "92136",
+          "company": "Carolina Logistics",
+          "cities": "TIVERTON, ON - MINNEAPOLIS, MN",
+          "rate": "1900"
+        },
+        {
+          "time": "08/18/2020",
+          "orderNumber": "92143",
+          "company": "Carolina Logistics",
+          "cities": "SAN DIMAS, CA - LIVERMORE, CA",
+          "rate": "450"
+        },
+        {
+          "time": "08/18/2020",
+          "orderNumber": "92144",
+          "company": "Carolina Logistics",
+          "cities": "WEST MEMPHIS, AR - KALISPELL, MT",
+          "rate": "1600"
+        },
+        {
+          "time": "08/18/2020",
+          "orderNumber": "92150",
+          "company": "Carolina Logistics",
+          "cities": "ATLANTA, GA - NORCROSS, GA",
+          "rate": "300"
+        },
+        {
+          "time": "08/18/2020",
+          "orderNumber": "92165",
+          "company": "Carolina Logistics",
+          "cities": "CONYERS, GA - COLUMBIA, MO",
+          "rate": "1100"
+        },
+        {
+          "time": "08/18/2020",
+          "orderNumber": "92168",
+          "company": "Carolina Logistics",
+          "cities": "JASPER, TN - STUARTS DRAFT, VA",
+          "rate": "640"
+        },
+        {
+          "time": "08/18/2020",
+          "orderNumber": "92176",
+          "company": "Carolina Logistics",
+          "cities": "ELKRIDGE, MD - MAITLAND, FL",
+          "rate": "250"
+        },
+        {
+          "time": "08/18/2020",
+          "orderNumber": "92183",
+          "company": "Carolina Logistics",
+          "cities": "NICHOLASVILLE, KY - GUELPH, ON",
+          "rate": "700"
+        },
+        {
+          "time": "08/18/2020",
+          "orderNumber": "92180",
+          "company": "Carolina Logistics",
+          "cities": "OWATONNA, MN - UNION CITY, TN",
+          "rate": "775"
+        },
+        {
+          "time": "08/18/2020",
+          "orderNumber": "92186",
+          "company": "Carolina Logistics",
+          "cities": "KENT, WA - LOS ANGELES, CA",
+          "rate": "1500"
+        },
+        {
+          "time": "08/18/2020",
+          "orderNumber": "92200",
+          "company": "Carolina Logistics",
+          "cities": "SEATTLE, WA - EUGENE, OR",
+          "rate": "550"
+        },
+        {
+          "time": "08/18/2020",
+          "orderNumber": "92203",
+          "company": "Carolina Logistics",
+          "cities": "ATLANTA, GA - RIDGEVILLE, SC",
+          "rate": "600"
+        },
+        {
+          "time": "08/18/2020",
+          "orderNumber": "92205",
+          "company": "Carolina Logistics",
+          "cities": "DULUTH, MN - CARLISLE, IN",
+          "rate": "1000"
+        },
+        {
+          "time": "08/18/2020",
+          "orderNumber": "92214",
+          "company": "Carolina Logistics",
+          "cities": "MIAMI, FL - WALL, NJ",
+          "rate": "925"
+        },
+        {
+          "time": "08/19/2020",
+          "orderNumber": "92218",
+          "company": "Carolina Logistics",
+          "cities": "SIMPSONVILLE, KY - SYRACUSE, NY",
+          "rate": "1100"
+        },
+        {
+          "time": "08/19/2020",
+          "orderNumber": "92220",
+          "company": "Carolina Logistics",
+          "cities": "TAUNTON, MA - BRIDGEWATER, NJ",
+          "rate": "750"
+        },
+        {
+          "time": "08/19/2020",
+          "orderNumber": "92226",
+          "company": "Carolina Logistics",
+          "cities": "ROSSVILLE, GA - MANASSAS, VA",
+          "rate": "1000"
+        },
+        {
+          "time": "08/18/2020",
+          "orderNumber": "92229",
+          "company": "Carolina Logistics",
+          "cities": "ROSCOE, IL - TRENTON, GA",
+          "rate": "1200"
+        },
+        {
+          "time": "08/18/2020",
+          "orderNumber": "92232",
+          "company": "Carolina Logistics",
+          "cities": "RALEIGH, NC - HUNTINGTON, WV",
+          "rate": "450"
+        },
+        {
+          "time": "08/19/2020",
+          "orderNumber": "92236",
+          "company": "Carolina Logistics",
+          "cities": "ELIZABETH, NJ - ROCHESTER, NY",
+          "rate": "400"
+        },
+        {
+          "time": "08/19/2020",
+          "orderNumber": "92240",
+          "company": "Carolina Logistics",
+          "cities": "LOS ANGELES, CA - PICO RIVERA, CA",
+          "rate": "200"
+        },
+        {
+          "time": "08/18/2020",
+          "orderNumber": "92242",
+          "company": "Carolina Logistics",
+          "cities": "WAYNESBORO, GA - WAYNESBORO, VA",
+          "rate": "550"
+        }
+      ],
+      "id": 26
+    },
+    {
+      "date": "8.19.2020",
+      "records": [
+        {
+          "time": "08/19/2020",
+          "orderNumber": "92252",
+          "company": "Carolina Logistics",
+          "cities": "NEW YORK, NY - CHICAGO, IL",
+          "rate": "1100"
+        },
+        {
+          "time": "08/19/2020",
+          "orderNumber": "92256",
+          "company": "Carolina Logistics",
+          "cities": "PHOENIX, AZ - BENICIA, CA",
+          "rate": "1100"
+        },
+        {
+          "time": "08/19/2020",
+          "orderNumber": "92262",
+          "company": "Carolina Logistics",
+          "cities": "EAST ALTON, IL - COCKEYSVILLE, MD",
+          "rate": "2550"
+        },
+        {
+          "time": "08/19/2020",
+          "orderNumber": "92266",
+          "company": "Carolina Logistics",
+          "cities": "LAREDO, TX - OMAHA, NE",
+          "rate": "975"
+        },
+        {
+          "time": "08/19/2020",
+          "orderNumber": "92271",
+          "company": "Carolina Logistics",
+          "cities": "ATLANTA, GA - CHATTANOOGA, TN",
+          "rate": "280"
+        },
+        {
+          "time": "08/19/2020",
+          "orderNumber": "92276",
+          "company": "Carolina Logistics",
+          "cities": "BRASELTON, GA - JACKSONVILLE, FL",
+          "rate": "600"
+        },
+        {
+          "time": "08/19/2020",
+          "orderNumber": "92279",
+          "company": "Carolina Logistics",
+          "cities": "HOUSTON, TX - CHARLOTTE, NC",
+          "rate": "0"
+        },
+        {
+          "time": "08/19/2020",
+          "orderNumber": "92284",
+          "company": "Carolina Logistics",
+          "cities": "BATAVIA, OH - GURNEE, IL",
+          "rate": "525"
+        },
+        {
+          "time": "08/19/2020",
+          "orderNumber": "92286",
+          "company": "Carolina Logistics",
+          "cities": "ATLANTA, GA - CLEVELAND, NC",
+          "rate": "365"
+        },
+        {
+          "time": "08/19/2020",
+          "orderNumber": "92289",
+          "company": "Carolina Logistics",
+          "cities": "ATLANTA, GA - ORLANDO, FL",
+          "rate": "500"
+        },
+        {
+          "time": "08/19/2020",
+          "orderNumber": "92299",
+          "company": "Carolina Logistics",
+          "cities": "ALLENTOWN, PA - IRWIN, OH",
+          "rate": "650"
+        },
+        {
+          "time": "08/19/2020",
+          "orderNumber": "92298",
+          "company": "Carolina Logistics",
+          "cities": "ALLENTOWN, PA - TARBORO, NC",
+          "rate": "650"
+        },
+        {
+          "time": "08/19/2020",
+          "orderNumber": "92301",
+          "company": "Carolina Logistics",
+          "cities": "FORT WORTH, TX - PINEY FLATS, TN",
+          "rate": "835"
+        },
+        {
+          "time": "08/19/2020",
+          "orderNumber": "92305",
+          "company": "Carolina Logistics",
+          "cities": "DALLAS, TX - KALAMAZOO, MI",
+          "rate": "755"
+        },
+        {
+          "time": "08/19/2020",
+          "orderNumber": "92310",
+          "company": "Carolina Logistics",
+          "cities": "BRADENTON, FL - ORLANDO, FL",
+          "rate": "450"
+        },
+        {
+          "time": "08/19/2020",
+          "orderNumber": "92314",
+          "company": "Carolina Logistics",
+          "cities": "HERNANDO, MS - BROKEN ARROW, OK",
+          "rate": "600"
+        },
+        {
+          "time": "08/19/2020",
+          "orderNumber": "92333",
+          "company": "Carolina Logistics",
+          "cities": "MONTCLAIR, CA - FREMONT, CA",
+          "rate": "700"
+        },
+        {
+          "time": "08/19/2020",
+          "orderNumber": "92335",
+          "company": "Carolina Logistics",
+          "cities": "LOUISBURG, NC - PIQUA, OH",
+          "rate": "550"
+        },
+        {
+          "time": "08/19/2020",
+          "orderNumber": "92338",
+          "company": "Carolina Logistics",
+          "cities": "SALINAS, CA - BIG SUR, CA",
+          "rate": "500"
+        },
+        {
+          "time": "08/19/2020",
+          "orderNumber": "92340",
+          "company": "Carolina Logistics",
+          "cities": "MILFORD, CT - HILLSBOROUGH, NJ",
+          "rate": "600"
+        },
+        {
+          "time": "08/20/2020",
+          "orderNumber": "92344",
+          "company": "Carolina Logistics",
+          "cities": "LEBANON, PA - ELK GROVE VILLAGE, IL",
+          "rate": "610"
+        },
+        {
+          "time": "08/20/2020",
+          "orderNumber": "92345",
+          "company": "Carolina Logistics",
+          "cities": "SOUTHAMPTON, PA - FOREST, MS",
+          "rate": "1600"
+        },
+        {
+          "time": "08/20/2020",
+          "orderNumber": "92349",
+          "company": "Carolina Logistics",
+          "cities": "MIDDLETOWN, NY - ONEONTA, NY",
+          "rate": "300"
+        },
+        {
+          "time": "08/20/2020",
+          "orderNumber": "92351",
+          "company": "Carolina Logistics",
+          "cities": "VIRGINIA BEACH, VA - ORANGE PARK, FL",
+          "rate": "1250"
+        },
+        {
+          "time": "08/19/2020",
+          "orderNumber": "92352",
+          "company": "Carolina Logistics",
+          "cities": "BAYTOWN, TX - MEADVILLE, MS",
+          "rate": "600"
+        },
+        {
+          "time": "08/20/2020",
+          "orderNumber": "92357",
+          "company": "Carolina Logistics",
+          "cities": "JAMAICA, NY - GREER, SC",
+          "rate": "1000"
+        },
+        {
+          "time": "08/20/2020",
+          "orderNumber": "92363",
+          "company": "Carolina Logistics",
+          "cities": "JAMAICA, NY - DISTRICT HEIGHTS, MD",
+          "rate": "800"
+        },
+        {
+          "time": "08/19/2020",
+          "orderNumber": "92356",
+          "company": "Carolina Logistics",
+          "cities": "UPPER SANDUSKY, OH - LAWRENCEBURG, TN",
+          "rate": "575"
+        },
+        {
+          "time": "08/20/2020",
+          "orderNumber": "92369",
+          "company": "Carolina Logistics",
+          "cities": "BENSENVILLE, IL - LEBANON, OH",
+          "rate": "350"
+        },
+        {
+          "time": "08/20/2020",
+          "orderNumber": "92374",
+          "company": "Carolina Logistics",
+          "cities": "MANITOWOC, WI - REDMOND, OR",
+          "rate": "2250"
+        },
+        {
+          "time": "08/19/2020",
+          "orderNumber": "92377",
+          "company": "Carolina Logistics",
+          "cities": "SPRINGDALE, AR - KANSAS CITY, MO",
+          "rate": "485"
+        },
+        {
+          "time": "08/20/2020",
+          "orderNumber": "92391",
+          "company": "Carolina Logistics",
+          "cities": "ATHENS, GA - GREEN LANE, PA",
+          "rate": "1400"
+        }
+      ],
+      "id": 27
+    },
+    {
+      "date": "8.20.2020",
+      "records": [
+        {
+          "time": "08/21/2020",
+          "orderNumber": "92409",
+          "company": "Carolina Logistics",
+          "cities": "BELTON, SC - LINCOLN, IL",
+          "rate": "615"
+        },
+        {
+          "time": "08/20/2020",
+          "orderNumber": "92411",
+          "company": "Carolina Logistics",
+          "cities": "HEBRON, KY - SCARBOROUGH, ME",
+          "rate": "1075"
+        },
+        {
+          "time": "08/20/2020",
+          "orderNumber": "92416",
+          "company": "Carolina Logistics",
+          "cities": "GREENSBURG, IN - WILLISTON, ND",
+          "rate": "2000"
+        },
+        {
+          "time": "08/20/2020",
+          "orderNumber": "92421",
+          "company": "Carolina Logistics",
+          "cities": "HUNTSVILLE, AL - KENNER, LA",
+          "rate": "750"
+        },
+        {
+          "time": "08/20/2020",
+          "orderNumber": "92423",
+          "company": "Carolina Logistics",
+          "cities": "LOUISVILLE, KY - OXFORD, NC",
+          "rate": "495"
+        },
+        {
+          "time": "08/20/2020",
+          "orderNumber": "92427",
+          "company": "Carolina Logistics",
+          "cities": "NEOSHO, MO - CEDAR RAPIDS, IA",
+          "rate": "525"
+        },
+        {
+          "time": "08/20/2020",
+          "orderNumber": "92430",
+          "company": "Carolina Logistics",
+          "cities": "IRVING, TX - EL PASO, TX",
+          "rate": "700"
+        },
+        {
+          "time": "08/20/2020",
+          "orderNumber": "92441",
+          "company": "Carolina Logistics",
+          "cities": "NORTH HAVEN, CT - SPRINGFIELD, MA",
+          "rate": "250"
+        },
+        {
+          "time": "08/20/2020",
+          "orderNumber": "92445",
+          "company": "Carolina Logistics",
+          "cities": "ELKRIDGE, MD - LAKE GEORGE, NY",
+          "rate": "800"
+        },
+        {
+          "time": "08/20/2020",
+          "orderNumber": "92450",
+          "company": "Carolina Logistics",
+          "cities": "BUFFALO, NY - SCHENECTADY, NY",
+          "rate": "750"
+        },
+        {
+          "time": "08/20/2020",
+          "orderNumber": "92454",
+          "company": "Carolina Logistics",
+          "cities": "CAMBRIDGE, OH - TIPP CITY, OH",
+          "rate": "425"
+        },
+        {
+          "time": "08/20/2020",
+          "orderNumber": "92457",
+          "company": "Carolina Logistics",
+          "cities": "FAIRLAND, IN - GLEN ALLEN, VA",
+          "rate": "800"
+        },
+        {
+          "time": "08/20/2020",
+          "orderNumber": "92462",
+          "company": "Carolina Logistics",
+          "cities": "RIDGWAY, PA - PULASKI, TN",
+          "rate": "720"
+        },
+        {
+          "time": "08/21/2020",
+          "orderNumber": "92473",
+          "company": "Carolina Logistics",
+          "cities": "HAMMOND, LA - ONTARIO, CA",
+          "rate": "2000"
+        },
+        {
+          "time": "08/21/2020",
+          "orderNumber": "92479",
+          "company": "Carolina Logistics",
+          "cities": "HARRODSBURG, KY - ATHENS, AL",
+          "rate": "1100"
+        },
+        {
+          "time": "08/20/2020",
+          "orderNumber": "92481",
+          "company": "Carolina Logistics",
+          "cities": "COLUMBUS, GA - ALLEN PARK, MI",
+          "rate": "700"
+        },
+        {
+          "time": "08/21/2020",
+          "orderNumber": "92483",
+          "company": "Carolina Logistics",
+          "cities": "TOOELE, UT - MOUNT PLEASANT, MI",
+          "rate": "1750"
+        },
+        {
+          "time": "08/20/2020",
+          "orderNumber": "92486",
+          "company": "Carolina Logistics",
+          "cities": "SALT LAKE CITY, UT - VISALIA, CA",
+          "rate": "650"
+        },
+        {
+          "time": "08/20/2020",
+          "orderNumber": "92489",
+          "company": "Carolina Logistics",
+          "cities": "TINLEY PARK, IL - COLUMBUS, GA",
+          "rate": "900"
+        },
+        {
+          "time": "08/20/2020",
+          "orderNumber": "92492",
+          "company": "Carolina Logistics",
+          "cities": "MARYLAND HEIGHTS, MO - INDIANAPOLIS, IN",
+          "rate": "350"
+        },
+        {
+          "time": "08/21/2020",
+          "orderNumber": "92494",
+          "company": "Carolina Logistics",
+          "cities": "THURMONT, MD - NORTHBROOK, IL",
+          "rate": "1250"
+        },
+        {
+          "time": "08/20/2020",
+          "orderNumber": "92504",
+          "company": "Carolina Logistics",
+          "cities": "BROKEN ARROW, OK - LINCOLN, NE",
+          "rate": "500"
+        },
+        {
+          "time": "08/20/2020",
+          "orderNumber": "92508",
+          "company": "Carolina Logistics",
+          "cities": "FERNDALE, WA - AUBURN, WA",
+          "rate": "300"
+        },
+        {
+          "time": "08/21/2020",
+          "orderNumber": "92510",
+          "company": "Carolina Logistics",
+          "cities": "BALTIMORE, MD - PISCATAWAY, NJ",
+          "rate": "325"
+        },
+        {
+          "time": "08/20/2020",
+          "orderNumber": "92516",
+          "company": "Carolina Logistics",
+          "cities": "CHICAGO, IL - YPSILANTI, MI",
+          "rate": "450"
+        },
+        {
+          "time": "08/21/2020",
+          "orderNumber": "92518",
+          "company": "Carolina Logistics",
+          "cities": "CONYERS, GA - SHELBYVILLE, IN",
+          "rate": "550"
+        },
+        {
+          "time": "08/21/2020",
+          "orderNumber": "92522",
+          "company": "Carolina Logistics",
+          "cities": "VALLEY STREAM, NY - ROCKVILLE, MD",
+          "rate": "600"
+        },
+        {
+          "time": "08/21/2020",
+          "orderNumber": "92526",
+          "company": "Carolina Logistics",
+          "cities": "COLUMBIA, SC - CUMBERLAND CITY, TN",
+          "rate": "600"
+        },
+        {
+          "time": "08/20/2020",
+          "orderNumber": "92530",
+          "company": "Carolina Logistics",
+          "cities": "HOUSTON, TX - PASCAGOULA, MS",
+          "rate": "950"
+        },
+        {
+          "time": "08/21/2020",
+          "orderNumber": "92534",
+          "company": "Carolina Logistics",
+          "cities": "MARION, IN - MASON, MI",
+          "rate": "550"
+        }
+      ],
+      "id": 28
+    },
+    {
+      "date": "8.21.2020",
+      "records": [
+        {
+          "time": "08/21/2020",
+          "orderNumber": "92546",
+          "company": "Carolina Logistics",
+          "cities": "RANDOLPH, NJ - CHICOPEE, MA",
+          "rate": "380"
+        },
+        {
+          "time": "08/21/2020",
+          "orderNumber": "92548",
+          "company": "Carolina Logistics",
+          "cities": "PIERCETON, IN - KENTWOOD, MI",
+          "rate": "500"
+        },
+        {
+          "time": "08/21/2020",
+          "orderNumber": "92547",
+          "company": "Carolina Logistics",
+          "cities": "SHARON, PA - LANCASTER, NY",
+          "rate": "650"
+        },
+        {
+          "time": "08/21/2020",
+          "orderNumber": "92552",
+          "company": "Carolina Logistics",
+          "cities": "STRATFORD, CT - CLEAR BROOK, VA",
+          "rate": "700"
+        },
+        {
+          "time": "08/21/2020",
+          "orderNumber": "92558",
+          "company": "Carolina Logistics",
+          "cities": "CHIPPEWA FALLS, WI - BLOOMINGTON, IN",
+          "rate": "850"
+        },
+        {
+          "time": "08/24/2020",
+          "orderNumber": "92559",
+          "company": "Carolina Logistics",
+          "cities": "MARIETTA, GA - HURST, TX",
+          "rate": "800"
+        },
+        {
+          "time": "08/21/2020",
+          "orderNumber": "92561",
+          "company": "Carolina Logistics",
+          "cities": "COSTA MESA, CA - SAN JOSE, CA",
+          "rate": "650"
+        },
+        {
+          "time": "08/21/2020",
+          "orderNumber": "92567",
+          "company": "Carolina Logistics",
+          "cities": "BRASELTON, GA - SEFFNER, FL",
+          "rate": "500"
+        },
+        {
+          "time": "08/21/2020",
+          "orderNumber": "92571",
+          "company": "Carolina Logistics",
+          "cities": "WAUWATOSA, WI - FORT WORTH, TX",
+          "rate": "1800"
+        },
+        {
+          "time": "08/21/2020",
+          "orderNumber": "92575",
+          "company": "Carolina Logistics",
+          "cities": "JOHNSON CREEK, WI - NORTH CHARLESTON, SC",
+          "rate": "1100"
+        },
+        {
+          "time": "08/21/2020",
+          "orderNumber": "92578",
+          "company": "Carolina Logistics",
+          "cities": "PHOENIX, AZ - GIRVIN, TX",
+          "rate": "1650"
+        },
+        {
+          "time": "08/21/2020",
+          "orderNumber": "92584",
+          "company": "Carolina Logistics",
+          "cities": "ATLANTA, GA - WILMINGTON, OH",
+          "rate": "1100"
+        },
+        {
+          "time": "08/21/2020",
+          "orderNumber": "92586",
+          "company": "Carolina Logistics",
+          "cities": "CHARLOTTE, NC - ANDOVER, MA",
+          "rate": "1400"
+        },
+        {
+          "time": "08/21/2020",
+          "orderNumber": "92592",
+          "company": "Carolina Logistics",
+          "cities": "ONTARIO, CA - HOUSTON, TX",
+          "rate": "1000"
+        },
+        {
+          "time": "08/21/2020",
+          "orderNumber": "92594",
+          "company": "Carolina Logistics",
+          "cities": "TAMPA, FL - PLANT CITY, FL",
+          "rate": "350"
+        },
+        {
+          "time": "08/21/2020",
+          "orderNumber": "92603",
+          "company": "Carolina Logistics",
+          "cities": "PHILADELPHIA, PA - MOSCOW MILLS, MO",
+          "rate": "1500"
+        },
+        {
+          "time": "08/21/2020",
+          "orderNumber": "92619",
+          "company": "Carolina Logistics",
+          "cities": "FREMONT, NE - FREMONT, NE",
+          "rate": "0"
+        },
+        {
+          "time": "08/21/2020",
+          "orderNumber": "92621",
+          "company": "Carolina Logistics",
+          "cities": "HALF MOON BAY, CA - PHOENIX, AZ",
+          "rate": "660"
+        },
+        {
+          "time": "08/21/2020",
+          "orderNumber": "92623",
+          "company": "Carolina Logistics",
+          "cities": "CLEARWATER, FL - DENVER, CO",
+          "rate": "1635"
+        },
+        {
+          "time": "08/22/2020",
+          "orderNumber": "92632",
+          "company": "Carolina Logistics",
+          "cities": "MEMPHIS, TN - FORT WORTH, TX",
+          "rate": "1200"
+        },
+        {
+          "time": "08/21/2020",
+          "orderNumber": "92634",
+          "company": "Carolina Logistics",
+          "cities": "PINEVILLE, LA - GARLAND, TX",
+          "rate": "450"
+        },
+        {
+          "time": "08/21/2020",
+          "orderNumber": "92620",
+          "company": "Carolina Logistics",
+          "cities": "SUWANEE, GA - BROWNSBURG, IN",
+          "rate": "510"
+        },
+        {
+          "time": "08/24/2020",
+          "orderNumber": "92637",
+          "company": "Carolina Logistics",
+          "cities": "GONZALES, LA - DOVER, OH",
+          "rate": "1600"
+        },
+        {
+          "time": "08/24/2020",
+          "orderNumber": "92648",
+          "company": "Carolina Logistics",
+          "cities": "PLEASANTVILLE, NY - HUNTINGTON, IN",
+          "rate": "950"
+        },
+        {
+          "time": "08/21/2020",
+          "orderNumber": "92654",
+          "company": "Carolina Logistics",
+          "cities": "PHARR, TX - FORT WORTH, TX",
+          "rate": "600"
+        },
+        {
+          "time": "08/21/2020",
+          "orderNumber": "92658",
+          "company": "Carolina Logistics",
+          "cities": "AMERICAN FORK, UT - STOCKTON, CA",
+          "rate": "630"
+        },
+        {
+          "time": "08/23/2020",
+          "orderNumber": "92671",
+          "company": "Carolina Logistics",
+          "cities": "GRAPEVINE, TX - ROUND ROCK, TX",
+          "rate": "525"
+        },
+        {
+          "time": "08/24/2020",
+          "orderNumber": "92675",
+          "company": "Carolina Logistics",
+          "cities": "LENEXA, KS - INGLEWOOD, CA",
+          "rate": "1625"
+        }
+      ],
+      "id": 29
+    }
+  ],
+  "orderNumbers": [
+    {
+      "Number": "79505",
+      "id": 1
+    },
+    {
+      "Number": "79503",
+      "id": 2
+    },
+    {
+      "Number": "79511",
+      "id": 3
+    },
+    {
+      "Number": "80003",
+      "id": 4
+    },
+    {
+      "Number": "80095",
+      "id": 5
+    },
+    {
+      "Number": "80096",
+      "id": 6
+    },
+    {
+      "Number": "80180",
+      "id": 7
+    },
+    {
+      "Number": "85138",
+      "id": 8
+    },
+    {
+      "Number": "85139",
+      "id": 9
+    },
+    {
+      "Number": "85039",
+      "id": 10
+    },
+    {
+      "Number": "85255",
+      "id": 11
+    },
+    {
+      "Number": "85256",
+      "id": 12
+    },
+    {
+      "Number": "85258",
+      "id": 13
+    },
+    {
+      "Number": "85268",
+      "id": 14
+    },
+    {
+      "Number": "85290",
+      "id": 15
+    },
+    {
+      "Number": "85313",
+      "id": 16
+    },
+    {
+      "Number": "85357",
+      "id": 17
+    },
+    {
+      "Number": "85363",
+      "id": 18
+    },
+    {
+      "Number": "85365",
+      "id": 19
+    },
+    {
+      "Number": "85372",
+      "id": 20
+    },
+    {
+      "Number": "85405",
+      "id": 21
+    },
+    {
+      "Number": "85409",
+      "id": 22
+    },
+    {
+      "Number": "85412",
+      "id": 23
+    },
+    {
+      "Number": "85455",
+      "id": 24
+    },
+    {
+      "Number": "85457",
+      "id": 25
+    },
+    {
+      "Number": "85466",
+      "id": 26
+    },
+    {
+      "Number": "85471",
+      "id": 27
+    },
+    {
+      "Number": "85495",
+      "id": 28
+    },
+    {
+      "Number": "85507",
+      "id": 29
+    },
+    {
+      "Number": "85512",
+      "id": 30
+    },
+    {
+      "Number": "85522",
+      "id": 31
+    },
+    {
+      "Number": "85542",
+      "id": 32
+    },
+    {
+      "Number": "85543",
+      "id": 33
+    },
+    {
+      "Number": "85562",
+      "id": 34
+    },
+    {
+      "Number": "85565",
+      "id": 35
+    },
+    {
+      "Number": "85570",
+      "id": 36
+    },
+    {
+      "Number": "85572",
+      "id": 37
+    },
+    {
+      "Number": "85580",
+      "id": 38
+    },
+    {
+      "Number": "85586",
+      "id": 39
+    },
+    {
+      "Number": "85600",
+      "id": 40
+    },
+    {
+      "Number": "85612",
+      "id": 41
+    },
+    {
+      "Number": "85614",
+      "id": 42
+    },
+    {
+      "Number": "85639",
+      "id": 43
+    },
+    {
+      "Number": "85644",
+      "id": 44
+    },
+    {
+      "Number": "85671",
+      "id": 45
+    },
+    {
+      "Number": "85683",
+      "id": 46
+    },
+    {
+      "Number": "85717",
+      "id": 47
+    },
+    {
+      "Number": "85725",
+      "id": 48
+    },
+    {
+      "Number": "85739",
+      "id": 49
+    },
+    {
+      "Number": "85747",
+      "id": 50
+    },
+    {
+      "Number": "85775",
+      "id": 51
+    },
+    {
+      "Number": "85793",
+      "id": 52
+    },
+    {
+      "Number": "85796",
+      "id": 53
+    },
+    {
+      "Number": "85797",
+      "id": 54
+    },
+    {
+      "Number": "85811",
+      "id": 55
+    },
+    {
+      "Number": "85812",
+      "id": 56
+    },
+    {
+      "Number": "85825",
+      "id": 57
+    },
+    {
+      "Number": "85829",
+      "id": 58
+    },
+    {
+      "Number": "85833",
+      "id": 59
+    },
+    {
+      "Number": "85838",
+      "id": 60
+    },
+    {
+      "Number": "85842",
+      "id": 61
+    },
+    {
+      "Number": "85856",
+      "id": 62
+    },
+    {
+      "Number": "85873",
+      "id": 63
+    },
+    {
+      "Number": "85914",
+      "id": 64
+    },
+    {
+      "Number": "85923",
+      "id": 65
+    },
+    {
+      "Number": "85926",
+      "id": 66
+    },
+    {
+      "Number": "85940",
+      "id": 67
+    },
+    {
+      "Number": "85942",
+      "id": 68
+    },
+    {
+      "Number": "85944",
+      "id": 69
+    },
+    {
+      "Number": "85953",
+      "id": 70
+    },
+    {
+      "Number": "85956",
+      "id": 71
+    },
+    {
+      "Number": "85982",
+      "id": 72
+    },
+    {
+      "Number": "85989",
+      "id": 73
+    },
+    {
+      "Number": "85990",
+      "id": 74
+    },
+    {
+      "Number": "86045",
+      "id": 75
+    },
+    {
+      "Number": "86026",
+      "id": 76
+    },
+    {
+      "Number": "85997",
+      "id": 77
+    },
+    {
+      "Number": "86084",
+      "id": 78
+    },
+    {
+      "Number": "86089",
+      "id": 79
+    },
+    {
+      "Number": "86090",
+      "id": 80
+    },
+    {
+      "Number": "86097",
+      "id": 81
+    },
+    {
+      "Number": "86102",
+      "id": 82
+    },
+    {
+      "Number": "86101",
+      "id": 83
+    },
+    {
+      "Number": "86112",
+      "id": 84
+    },
+    {
+      "Number": "86113",
+      "id": 85
+    },
+    {
+      "Number": "86143",
+      "id": 86
+    },
+    {
+      "Number": "86153",
+      "id": 87
+    },
+    {
+      "Number": "86170",
+      "id": 88
+    },
+    {
+      "Number": "87455",
+      "id": 89
+    },
+    {
+      "Number": "87459",
+      "id": 90
+    },
+    {
+      "Number": "87461",
+      "id": 91
+    },
+    {
+      "Number": "87464",
+      "id": 92
+    },
+    {
+      "Number": "87462",
+      "id": 93
+    },
+    {
+      "Number": "87468",
+      "id": 94
+    },
+    {
+      "Number": "87465",
+      "id": 95
+    },
+    {
+      "Number": "87470",
+      "id": 96
+    },
+    {
+      "Number": "87471",
+      "id": 97
+    },
+    {
+      "Number": "87474",
+      "id": 98
+    },
+    {
+      "Number": "87475",
+      "id": 99
+    },
+    {
+      "Number": "87478",
+      "id": 100
+    },
+    {
+      "Number": "87480",
+      "id": 101
+    },
+    {
+      "Number": "87484",
+      "id": 102
+    },
+    {
+      "Number": "87482",
+      "id": 103
+    },
+    {
+      "Number": "87486",
+      "id": 104
+    },
+    {
+      "Number": "87487",
+      "id": 105
+    },
+    {
+      "Number": "87488",
+      "id": 106
+    },
+    {
+      "Number": "87490",
+      "id": 107
+    },
+    {
+      "Number": "87492",
+      "id": 108
+    },
+    {
+      "Number": "87495",
+      "id": 109
+    },
+    {
+      "Number": "87498",
+      "id": 110
+    },
+    {
+      "Number": "87499",
+      "id": 111
+    },
+    {
+      "Number": "87514",
+      "id": 112
+    },
+    {
+      "Number": "87516",
+      "id": 113
+    },
+    {
+      "Number": "87518",
+      "id": 114
+    },
+    {
+      "Number": "87520",
+      "id": 115
+    },
+    {
+      "Number": "87522",
+      "id": 116
+    },
+    {
+      "Number": "87524",
+      "id": 117
+    },
+    {
+      "Number": "87526",
+      "id": 118
+    },
+    {
+      "Number": "87527",
+      "id": 119
+    },
+    {
+      "Number": "87529",
+      "id": 120
+    },
+    {
+      "Number": "87531",
+      "id": 121
+    },
+    {
+      "Number": "87532",
+      "id": 122
+    },
+    {
+      "Number": "87533",
+      "id": 123
+    },
+    {
+      "Number": "87534",
+      "id": 124
+    },
+    {
+      "Number": "87536",
+      "id": 125
+    },
+    {
+      "Number": "87537",
+      "id": 126
+    },
+    {
+      "Number": "87542",
+      "id": 127
+    },
+    {
+      "Number": "87544",
+      "id": 128
+    },
+    {
+      "Number": "87538",
+      "id": 129
+    },
+    {
+      "Number": "87545",
+      "id": 130
+    },
+    {
+      "Number": "87548",
+      "id": 131
+    },
+    {
+      "Number": "87550",
+      "id": 132
+    },
+    {
+      "Number": "87551",
+      "id": 133
+    },
+    {
+      "Number": "87553",
+      "id": 134
+    },
+    {
+      "Number": "87554",
+      "id": 135
+    },
+    {
+      "Number": "87556",
+      "id": 136
+    },
+    {
+      "Number": "87558",
+      "id": 137
+    },
+    {
+      "Number": "87560",
+      "id": 138
+    },
+    {
+      "Number": "87562",
+      "id": 139
+    },
+    {
+      "Number": "87566",
+      "id": 140
+    },
+    {
+      "Number": "87567",
+      "id": 141
+    },
+    {
+      "Number": "87570",
+      "id": 142
+    },
+    {
+      "Number": "87572",
+      "id": 143
+    },
+    {
+      "Number": "87575",
+      "id": 144
+    },
+    {
+      "Number": "87576",
+      "id": 145
+    },
+    {
+      "Number": "87578",
+      "id": 146
+    },
+    {
+      "Number": "87596",
+      "id": 147
+    },
+    {
+      "Number": "87597",
+      "id": 148
+    },
+    {
+      "Number": "87600",
+      "id": 149
+    },
+    {
+      "Number": "87601",
+      "id": 150
+    },
+    {
+      "Number": "87603",
+      "id": 151
+    },
+    {
+      "Number": "87605",
+      "id": 152
+    },
+    {
+      "Number": "87606",
+      "id": 153
+    },
+    {
+      "Number": "87611",
+      "id": 154
+    },
+    {
+      "Number": "87615",
+      "id": 155
+    },
+    {
+      "Number": "87617",
+      "id": 156
+    },
+    {
+      "Number": "87621",
+      "id": 157
+    },
+    {
+      "Number": "87623",
+      "id": 158
+    },
+    {
+      "Number": "87625",
+      "id": 159
+    },
+    {
+      "Number": "87628",
+      "id": 160
+    },
+    {
+      "Number": "87629",
+      "id": 161
+    },
+    {
+      "Number": "87631",
+      "id": 162
+    },
+    {
+      "Number": "87634",
+      "id": 163
+    },
+    {
+      "Number": "87637",
+      "id": 164
+    },
+    {
+      "Number": "87638",
+      "id": 165
+    },
+    {
+      "Number": "87640",
+      "id": 166
+    },
+    {
+      "Number": "87635",
+      "id": 167
+    },
+    {
+      "Number": "87642",
+      "id": 168
+    },
+    {
+      "Number": "87644",
+      "id": 169
+    },
+    {
+      "Number": "87644",
+      "id": 170
+    },
+    {
+      "Number": "87647",
+      "id": 171
+    },
+    {
+      "Number": "87645",
+      "id": 172
+    },
+    {
+      "Number": "87653",
+      "id": 173
+    },
+    {
+      "Number": "87670",
+      "id": 174
+    },
+    {
+      "Number": "87672",
+      "id": 175
+    },
+    {
+      "Number": "87678",
+      "id": 176
+    },
+    {
+      "Number": "87681",
+      "id": 177
+    },
+    {
+      "Number": "87682",
+      "id": 178
+    },
+    {
+      "Number": "87683",
+      "id": 179
+    },
+    {
+      "Number": "87684",
+      "id": 180
+    },
+    {
+      "Number": "87685",
+      "id": 181
+    },
+    {
+      "Number": "87686",
+      "id": 182
+    },
+    {
+      "Number": "87687",
+      "id": 183
+    },
+    {
+      "Number": "87687",
+      "id": 184
+    },
+    {
+      "Number": "87688",
+      "id": 185
+    },
+    {
+      "Number": "87680",
+      "id": 186
+    },
+    {
+      "Number": "87689",
+      "id": 187
+    },
+    {
+      "Number": "87690",
+      "id": 188
+    },
+    {
+      "Number": "87691",
+      "id": 189
+    },
+    {
+      "Number": "87702",
+      "id": 190
+    },
+    {
+      "Number": "87704",
+      "id": 191
+    },
+    {
+      "Number": "87699",
+      "id": 192
+    },
+    {
+      "Number": "87707",
+      "id": 193
+    },
+    {
+      "Number": "87723",
+      "id": 194
+    },
+    {
+      "Number": "87725",
+      "id": 195
+    },
+    {
+      "Number": "87729",
+      "id": 196
+    },
+    {
+      "Number": "87731",
+      "id": 197
+    },
+    {
+      "Number": "87733",
+      "id": 198
+    },
+    {
+      "Number": "87737",
+      "id": 199
+    },
+    {
+      "Number": "87735",
+      "id": 200
+    },
+    {
+      "Number": "87743",
+      "id": 201
+    },
+    {
+      "Number": "87745",
+      "id": 202
+    },
+    {
+      "Number": "87747",
+      "id": 203
+    },
+    {
+      "Number": "87749",
+      "id": 204
+    },
+    {
+      "Number": "87751",
+      "id": 205
+    },
+    {
+      "Number": "87752",
+      "id": 206
+    },
+    {
+      "Number": "87756",
+      "id": 207
+    },
+    {
+      "Number": "87757",
+      "id": 208
+    },
+    {
+      "Number": "87760",
+      "id": 209
+    },
+    {
+      "Number": "87754",
+      "id": 210
+    },
+    {
+      "Number": "87762",
+      "id": 211
+    },
+    {
+      "Number": "87763",
+      "id": 212
+    },
+    {
+      "Number": "87764",
+      "id": 213
+    },
+    {
+      "Number": "87767",
+      "id": 214
+    },
+    {
+      "Number": "87768",
+      "id": 215
+    },
+    {
+      "Number": "87770",
+      "id": 216
+    },
+    {
+      "Number": "87772",
+      "id": 217
+    },
+    {
+      "Number": "87773",
+      "id": 218
+    },
+    {
+      "Number": "87774",
+      "id": 219
+    },
+    {
+      "Number": "87789",
+      "id": 220
+    },
+    {
+      "Number": "87791",
+      "id": 221
+    },
+    {
+      "Number": "87793",
+      "id": 222
+    },
+    {
+      "Number": "87797",
+      "id": 223
+    },
+    {
+      "Number": "87798",
+      "id": 224
+    },
+    {
+      "Number": "87800",
+      "id": 225
+    },
+    {
+      "Number": "87803",
+      "id": 226
+    },
+    {
+      "Number": "87804",
+      "id": 227
+    },
+    {
+      "Number": "87805",
+      "id": 228
+    },
+    {
+      "Number": "87806",
+      "id": 229
+    },
+    {
+      "Number": "87807",
+      "id": 230
+    },
+    {
+      "Number": "87808",
+      "id": 231
+    },
+    {
+      "Number": "87810",
+      "id": 232
+    },
+    {
+      "Number": "87809",
+      "id": 233
+    },
+    {
+      "Number": "87812",
+      "id": 234
+    },
+    {
+      "Number": "87811",
+      "id": 235
+    },
+    {
+      "Number": "87813",
+      "id": 236
+    },
+    {
+      "Number": "87814",
+      "id": 237
+    },
+    {
+      "Number": "87818",
+      "id": 238
+    },
+    {
+      "Number": "87824",
+      "id": 239
+    },
+    {
+      "Number": "87826",
+      "id": 240
+    },
+    {
+      "Number": "87828",
+      "id": 241
+    },
+    {
+      "Number": "87830",
+      "id": 242
+    },
+    {
+      "Number": "87833",
+      "id": 243
+    },
+    {
+      "Number": "87834",
+      "id": 244
+    },
+    {
+      "Number": "87836",
+      "id": 245
+    },
+    {
+      "Number": "87839",
+      "id": 246
+    },
+    {
+      "Number": "87838",
+      "id": 247
+    },
+    {
+      "Number": "87844",
+      "id": 248
+    },
+    {
+      "Number": "87856",
+      "id": 249
+    },
+    {
+      "Number": "87859",
+      "id": 250
+    },
+    {
+      "Number": "87861",
+      "id": 251
+    },
+    {
+      "Number": "87865",
+      "id": 252
+    },
+    {
+      "Number": "87867",
+      "id": 253
+    },
+    {
+      "Number": "87870",
+      "id": 254
+    },
+    {
+      "Number": "87871",
+      "id": 255
+    },
+    {
+      "Number": "87873",
+      "id": 256
+    },
+    {
+      "Number": "87875",
+      "id": 257
+    },
+    {
+      "Number": "87877",
+      "id": 258
+    },
+    {
+      "Number": "87880",
+      "id": 259
+    },
+    {
+      "Number": "87882",
+      "id": 260
+    },
+    {
+      "Number": "87884",
+      "id": 261
+    },
+    {
+      "Number": "87887",
+      "id": 262
+    },
+    {
+      "Number": "87894",
+      "id": 263
+    },
+    {
+      "Number": "87897",
+      "id": 264
+    },
+    {
+      "Number": "87899",
+      "id": 265
+    },
+    {
+      "Number": "87900",
+      "id": 266
+    },
+    {
+      "Number": "87903",
+      "id": 267
+    },
+    {
+      "Number": "87904",
+      "id": 268
+    },
+    {
+      "Number": "87920",
+      "id": 269
+    },
+    {
+      "Number": "87921",
+      "id": 270
+    },
+    {
+      "Number": "87922",
+      "id": 271
+    },
+    {
+      "Number": "87926",
+      "id": 272
+    },
+    {
+      "Number": "87927",
+      "id": 273
+    },
+    {
+      "Number": "87928",
+      "id": 274
+    },
+    {
+      "Number": "87931",
+      "id": 275
+    },
+    {
+      "Number": "87929",
+      "id": 276
+    },
+    {
+      "Number": "87925",
+      "id": 277
+    },
+    {
+      "Number": "87930",
+      "id": 278
+    },
+    {
+      "Number": "87933",
+      "id": 279
+    },
+    {
+      "Number": "87932",
+      "id": 280
+    },
+    {
+      "Number": "87934",
+      "id": 281
+    },
+    {
+      "Number": "87935",
+      "id": 282
+    },
+    {
+      "Number": "87937",
+      "id": 283
+    },
+    {
+      "Number": "87938",
+      "id": 284
+    },
+    {
+      "Number": "87936",
+      "id": 285
+    },
+    {
+      "Number": "87942",
+      "id": 286
+    },
+    {
+      "Number": "87943",
+      "id": 287
+    },
+    {
+      "Number": "87890",
+      "id": 288
+    },
+    {
+      "Number": "87949",
+      "id": 289
+    },
+    {
+      "Number": "87950",
+      "id": 290
+    },
+    {
+      "Number": "87952",
+      "id": 291
+    },
+    {
+      "Number": "87955",
+      "id": 292
+    },
+    {
+      "Number": "87957",
+      "id": 293
+    },
+    {
+      "Number": "88112",
+      "id": 294
+    },
+    {
+      "Number": "88113",
+      "id": 295
+    },
+    {
+      "Number": "88115",
+      "id": 296
+    },
+    {
+      "Number": "88116",
+      "id": 297
+    },
+    {
+      "Number": "88121",
+      "id": 298
+    },
+    {
+      "Number": "88126",
+      "id": 299
+    },
+    {
+      "Number": "88128",
+      "id": 300
+    },
+    {
+      "Number": "88130",
+      "id": 301
+    },
+    {
+      "Number": "88135",
+      "id": 302
+    },
+    {
+      "Number": "88138",
+      "id": 303
+    },
+    {
+      "Number": "88140",
+      "id": 304
+    },
+    {
+      "Number": "88143",
+      "id": 305
+    },
+    {
+      "Number": "88144",
+      "id": 306
+    },
+    {
+      "Number": "88163",
+      "id": 307
+    },
+    {
+      "Number": "88163",
+      "id": 308
+    },
+    {
+      "Number": "88168",
+      "id": 309
+    },
+    {
+      "Number": "88172",
+      "id": 310
+    },
+    {
+      "Number": "88177",
+      "id": 311
+    },
+    {
+      "Number": "88194",
+      "id": 312
+    },
+    {
+      "Number": "88197",
+      "id": 313
+    },
+    {
+      "Number": "88200",
+      "id": 314
+    },
+    {
+      "Number": "88219",
+      "id": 315
+    },
+    {
+      "Number": "88223",
+      "id": 316
+    },
+    {
+      "Number": "88231",
+      "id": 317
+    },
+    {
+      "Number": "88241",
+      "id": 318
+    },
+    {
+      "Number": "88268",
+      "id": 319
+    },
+    {
+      "Number": "88279",
+      "id": 320
+    },
+    {
+      "Number": "88280",
+      "id": 321
+    },
+    {
+      "Number": "88282",
+      "id": 322
+    },
+    {
+      "Number": "88287",
+      "id": 323
+    },
+    {
+      "Number": "88303",
+      "id": 324
+    },
+    {
+      "Number": "88307",
+      "id": 325
+    },
+    {
+      "Number": "88595",
+      "id": 326
+    },
+    {
+      "Number": "88597",
+      "id": 327
+    },
+    {
+      "Number": "88600",
+      "id": 328
+    },
+    {
+      "Number": "88603",
+      "id": 329
+    },
+    {
+      "Number": "88599",
+      "id": 330
+    },
+    {
+      "Number": "88604",
+      "id": 331
+    },
+    {
+      "Number": "88606",
+      "id": 332
+    },
+    {
+      "Number": "88609",
+      "id": 333
+    },
+    {
+      "Number": "88613",
+      "id": 334
+    },
+    {
+      "Number": "88618",
+      "id": 335
+    },
+    {
+      "Number": "88619",
+      "id": 336
+    },
+    {
+      "Number": "88621",
+      "id": 337
+    },
+    {
+      "Number": "88622",
+      "id": 338
+    },
+    {
+      "Number": "88623",
+      "id": 339
+    },
+    {
+      "Number": "88642",
+      "id": 340
+    },
+    {
+      "Number": "88654",
+      "id": 341
+    },
+    {
+      "Number": "88661",
+      "id": 342
+    },
+    {
+      "Number": "88664",
+      "id": 343
+    },
+    {
+      "Number": "88665",
+      "id": 344
+    },
+    {
+      "Number": "88637",
+      "id": 345
+    },
+    {
+      "Number": "88638",
+      "id": 346
+    },
+    {
+      "Number": "88668",
+      "id": 347
+    },
+    {
+      "Number": "88669",
+      "id": 348
+    },
+    {
+      "Number": "88670",
+      "id": 349
+    },
+    {
+      "Number": "88671",
+      "id": 350
+    },
+    {
+      "Number": "88672",
+      "id": 351
+    },
+    {
+      "Number": "88675",
+      "id": 352
+    },
+    {
+      "Number": "88677",
+      "id": 353
+    },
+    {
+      "Number": "88678",
+      "id": 354
+    },
+    {
+      "Number": "88680",
+      "id": 355
+    },
+    {
+      "Number": "88682",
+      "id": 356
+    },
+    {
+      "Number": "88684",
+      "id": 357
+    },
+    {
+      "Number": "88685",
+      "id": 358
+    },
+    {
+      "Number": "88686",
+      "id": 359
+    },
+    {
+      "Number": "88692",
+      "id": 360
+    },
+    {
+      "Number": "88693",
+      "id": 361
+    },
+    {
+      "Number": "88694",
+      "id": 362
+    },
+    {
+      "Number": "88701",
+      "id": 363
+    },
+    {
+      "Number": "88702",
+      "id": 364
+    },
+    {
+      "Number": "88703",
+      "id": 365
+    },
+    {
+      "Number": "88708",
+      "id": 366
+    },
+    {
+      "Number": "88710",
+      "id": 367
+    },
+    {
+      "Number": "88711",
+      "id": 368
+    },
+    {
+      "Number": "88713",
+      "id": 369
+    },
+    {
+      "Number": "88715",
+      "id": 370
+    },
+    {
+      "Number": "88718",
+      "id": 371
+    },
+    {
+      "Number": "88721",
+      "id": 372
+    },
+    {
+      "Number": "88723",
+      "id": 373
+    },
+    {
+      "Number": "88545",
+      "id": 374
+    },
+    {
+      "Number": "88730",
+      "id": 375
+    },
+    {
+      "Number": "88731",
+      "id": 376
+    },
+    {
+      "Number": "88598",
+      "id": 377
+    },
+    {
+      "Number": "88733",
+      "id": 378
+    },
+    {
+      "Number": "88735",
+      "id": 379
+    },
+    {
+      "Number": "88737",
+      "id": 380
+    },
+    {
+      "Number": "88742",
+      "id": 381
+    },
+    {
+      "Number": "88744",
+      "id": 382
+    },
+    {
+      "Number": "88749",
+      "id": 383
+    },
+    {
+      "Number": "88754",
+      "id": 384
+    },
+    {
+      "Number": "88752",
+      "id": 385
+    },
+    {
+      "Number": "88760",
+      "id": 386
+    },
+    {
+      "Number": "88761",
+      "id": 387
+    },
+    {
+      "Number": "88766",
+      "id": 388
+    },
+    {
+      "Number": "88768",
+      "id": 389
+    },
+    {
+      "Number": "88770",
+      "id": 390
+    },
+    {
+      "Number": "88771",
+      "id": 391
+    },
+    {
+      "Number": "88774",
+      "id": 392
+    },
+    {
+      "Number": "88781",
+      "id": 393
+    },
+    {
+      "Number": "88765",
+      "id": 394
+    },
+    {
+      "Number": "88791",
+      "id": 395
+    },
+    {
+      "Number": "88785",
+      "id": 396
+    },
+    {
+      "Number": "88794",
+      "id": 397
+    },
+    {
+      "Number": "88793",
+      "id": 398
+    },
+    {
+      "Number": "88797",
+      "id": 399
+    },
+    {
+      "Number": "88801",
+      "id": 400
+    },
+    {
+      "Number": "88807",
+      "id": 401
+    },
+    {
+      "Number": "88808",
+      "id": 402
+    },
+    {
+      "Number": "88810",
+      "id": 403
+    },
+    {
+      "Number": "88812",
+      "id": 404
+    },
+    {
+      "Number": "88816",
+      "id": 405
+    },
+    {
+      "Number": "88818",
+      "id": 406
+    },
+    {
+      "Number": "88823",
+      "id": 407
+    },
+    {
+      "Number": "88821",
+      "id": 408
+    },
+    {
+      "Number": "88824",
+      "id": 409
+    },
+    {
+      "Number": "88831",
+      "id": 410
+    },
+    {
+      "Number": "88833",
+      "id": 411
+    },
+    {
+      "Number": "88834",
+      "id": 412
+    },
+    {
+      "Number": "88835",
+      "id": 413
+    },
+    {
+      "Number": "88837",
+      "id": 414
+    },
+    {
+      "Number": "88839",
+      "id": 415
+    },
+    {
+      "Number": "88842",
+      "id": 416
+    },
+    {
+      "Number": "88841",
+      "id": 417
+    },
+    {
+      "Number": "88844",
+      "id": 418
+    },
+    {
+      "Number": "88845",
+      "id": 419
+    },
+    {
+      "Number": "88848",
+      "id": 420
+    },
+    {
+      "Number": "88849",
+      "id": 421
+    },
+    {
+      "Number": "88850",
+      "id": 422
+    },
+    {
+      "Number": "88852",
+      "id": 423
+    },
+    {
+      "Number": "88853",
+      "id": 424
+    },
+    {
+      "Number": "88854",
+      "id": 425
+    },
+    {
+      "Number": "88855",
+      "id": 426
+    },
+    {
+      "Number": "88862",
+      "id": 427
+    },
+    {
+      "Number": "88867",
+      "id": 428
+    },
+    {
+      "Number": "88869",
+      "id": 429
+    },
+    {
+      "Number": "88871",
+      "id": 430
+    },
+    {
+      "Number": "88872",
+      "id": 431
+    },
+    {
+      "Number": "88874",
+      "id": 432
+    },
+    {
+      "Number": "88878",
+      "id": 433
+    },
+    {
+      "Number": "88870",
+      "id": 434
+    },
+    {
+      "Number": "88885",
+      "id": 435
+    },
+    {
+      "Number": "88888",
+      "id": 436
+    },
+    {
+      "Number": "88890",
+      "id": 437
+    },
+    {
+      "Number": "88893",
+      "id": 438
+    },
+    {
+      "Number": "88894",
+      "id": 439
+    },
+    {
+      "Number": "88895",
+      "id": 440
+    },
+    {
+      "Number": "88896",
+      "id": 441
+    },
+    {
+      "Number": "88897",
+      "id": 442
+    },
+    {
+      "Number": "88899",
+      "id": 443
+    },
+    {
+      "Number": "88912",
+      "id": 444
+    },
+    {
+      "Number": "88914",
+      "id": 445
+    },
+    {
+      "Number": "88915",
+      "id": 446
+    },
+    {
+      "Number": "88916",
+      "id": 447
+    },
+    {
+      "Number": "88918",
+      "id": 448
+    },
+    {
+      "Number": "88919",
+      "id": 449
+    },
+    {
+      "Number": "88920",
+      "id": 450
+    },
+    {
+      "Number": "88921",
+      "id": 451
+    },
+    {
+      "Number": "88922",
+      "id": 452
+    },
+    {
+      "Number": "88923",
+      "id": 453
+    },
+    {
+      "Number": "88925",
+      "id": 454
+    },
+    {
+      "Number": "88926",
+      "id": 455
+    },
+    {
+      "Number": "88928",
+      "id": 456
+    },
+    {
+      "Number": "88934",
+      "id": 457
+    },
+    {
+      "Number": "88935",
+      "id": 458
+    },
+    {
+      "Number": "88937",
+      "id": 459
+    },
+    {
+      "Number": "88940",
+      "id": 460
+    },
+    {
+      "Number": "88946",
+      "id": 461
+    },
+    {
+      "Number": "88944",
+      "id": 462
+    },
+    {
+      "Number": "88948",
+      "id": 463
+    },
+    {
+      "Number": "88949",
+      "id": 464
+    },
+    {
+      "Number": "88950",
+      "id": 465
+    },
+    {
+      "Number": "88959",
+      "id": 466
+    },
+    {
+      "Number": "88958",
+      "id": 467
+    },
+    {
+      "Number": "88961",
+      "id": 468
+    },
+    {
+      "Number": "88967",
+      "id": 469
+    },
+    {
+      "Number": "88969",
+      "id": 470
+    },
+    {
+      "Number": "88970",
+      "id": 471
+    },
+    {
+      "Number": "88971",
+      "id": 472
+    },
+    {
+      "Number": "88972",
+      "id": 473
+    },
+    {
+      "Number": "88974",
+      "id": 474
+    },
+    {
+      "Number": "88976",
+      "id": 475
+    },
+    {
+      "Number": "88978",
+      "id": 476
+    },
+    {
+      "Number": "88979",
+      "id": 477
+    },
+    {
+      "Number": "88981",
+      "id": 478
+    },
+    {
+      "Number": "88985",
+      "id": 479
+    },
+    {
+      "Number": "88986",
+      "id": 480
+    },
+    {
+      "Number": "88988",
+      "id": 481
+    },
+    {
+      "Number": "88989",
+      "id": 482
+    },
+    {
+      "Number": "88990",
+      "id": 483
+    },
+    {
+      "Number": "88991",
+      "id": 484
+    },
+    {
+      "Number": "88993",
+      "id": 485
+    },
+    {
+      "Number": "88994",
+      "id": 486
+    },
+    {
+      "Number": "88998",
+      "id": 487
+    },
+    {
+      "Number": "89000",
+      "id": 488
+    },
+    {
+      "Number": "88999",
+      "id": 489
+    },
+    {
+      "Number": "89020",
+      "id": 490
+    },
+    {
+      "Number": "89022",
+      "id": 491
+    },
+    {
+      "Number": "89024",
+      "id": 492
+    },
+    {
+      "Number": "89025",
+      "id": 493
+    },
+    {
+      "Number": "89027",
+      "id": 494
+    },
+    {
+      "Number": "89029",
+      "id": 495
+    },
+    {
+      "Number": "89033",
+      "id": 496
+    },
+    {
+      "Number": "89034",
+      "id": 497
+    },
+    {
+      "Number": "89035",
+      "id": 498
+    },
+    {
+      "Number": "89036",
+      "id": 499
+    },
+    {
+      "Number": "89039",
+      "id": 500
+    },
+    {
+      "Number": "89042",
+      "id": 501
+    },
+    {
+      "Number": "89044",
+      "id": 502
+    },
+    {
+      "Number": "89041",
+      "id": 503
+    },
+    {
+      "Number": "89048",
+      "id": 504
+    },
+    {
+      "Number": "89050",
+      "id": 505
+    },
+    {
+      "Number": "89051",
+      "id": 506
+    },
+    {
+      "Number": "89055",
+      "id": 507
+    },
+    {
+      "Number": "89058",
+      "id": 508
+    },
+    {
+      "Number": "89062",
+      "id": 509
+    },
+    {
+      "Number": "89064",
+      "id": 510
+    },
+    {
+      "Number": "89061",
+      "id": 511
+    },
+    {
+      "Number": "89067",
+      "id": 512
+    },
+    {
+      "Number": "89049",
+      "id": 513
+    },
+    {
+      "Number": "89078",
+      "id": 514
+    },
+    {
+      "Number": "89080",
+      "id": 515
+    },
+    {
+      "Number": "89081",
+      "id": 516
+    },
+    {
+      "Number": "89085",
+      "id": 517
+    },
+    {
+      "Number": "89086",
+      "id": 518
+    },
+    {
+      "Number": "89088",
+      "id": 519
+    },
+    {
+      "Number": "89089",
+      "id": 520
+    },
+    {
+      "Number": "89096",
+      "id": 521
+    },
+    {
+      "Number": "89098",
+      "id": 522
+    },
+    {
+      "Number": "89101",
+      "id": 523
+    },
+    {
+      "Number": "89102",
+      "id": 524
+    },
+    {
+      "Number": "89104",
+      "id": 525
+    },
+    {
+      "Number": "89103",
+      "id": 526
+    },
+    {
+      "Number": "89113",
+      "id": 527
+    },
+    {
+      "Number": "89119",
+      "id": 528
+    },
+    {
+      "Number": "89121",
+      "id": 529
+    },
+    {
+      "Number": "89135",
+      "id": 530
+    },
+    {
+      "Number": "89143",
+      "id": 531
+    },
+    {
+      "Number": "89147",
+      "id": 532
+    },
+    {
+      "Number": "89149",
+      "id": 533
+    },
+    {
+      "Number": "89152",
+      "id": 534
+    },
+    {
+      "Number": "89155",
+      "id": 535
+    },
+    {
+      "Number": "89161",
+      "id": 536
+    },
+    {
+      "Number": "89164",
+      "id": 537
+    },
+    {
+      "Number": "89170",
+      "id": 538
+    },
+    {
+      "Number": "89172",
+      "id": 539
+    },
+    {
+      "Number": "89169",
+      "id": 540
+    },
+    {
+      "Number": "89178",
+      "id": 541
+    },
+    {
+      "Number": "89181",
+      "id": 542
+    },
+    {
+      "Number": "91958",
+      "id": 543
+    },
+    {
+      "Number": "91964",
+      "id": 544
+    },
+    {
+      "Number": "91967",
+      "id": 545
+    },
+    {
+      "Number": "91971",
+      "id": 546
+    },
+    {
+      "Number": "91973",
+      "id": 547
+    },
+    {
+      "Number": "91976",
+      "id": 548
+    },
+    {
+      "Number": "91983",
+      "id": 549
+    },
+    {
+      "Number": "91985",
+      "id": 550
+    },
+    {
+      "Number": "91986",
+      "id": 551
+    },
+    {
+      "Number": "91990",
+      "id": 552
+    },
+    {
+      "Number": "91991",
+      "id": 553
+    },
+    {
+      "Number": "91998",
+      "id": 554
+    },
+    {
+      "Number": "92000",
+      "id": 555
+    },
+    {
+      "Number": "92002",
+      "id": 556
+    },
+    {
+      "Number": "92012",
+      "id": 557
+    },
+    {
+      "Number": "92016",
+      "id": 558
+    },
+    {
+      "Number": "92042",
+      "id": 559
+    },
+    {
+      "Number": "92048",
+      "id": 560
+    },
+    {
+      "Number": "92045",
+      "id": 561
+    },
+    {
+      "Number": "92050",
+      "id": 562
+    },
+    {
+      "Number": "92064",
+      "id": 563
+    },
+    {
+      "Number": "92071",
+      "id": 564
+    },
+    {
+      "Number": "92065",
+      "id": 565
+    },
+    {
+      "Number": "92077",
+      "id": 566
+    },
+    {
+      "Number": "92083",
+      "id": 567
+    },
+    {
+      "Number": "92087",
+      "id": 568
+    },
+    {
+      "Number": "92082",
+      "id": 569
+    },
+    {
+      "Number": "92094",
+      "id": 570
+    },
+    {
+      "Number": "92110",
+      "id": 571
+    },
+    {
+      "Number": "92119",
+      "id": 572
+    },
+    {
+      "Number": "92123",
+      "id": 573
+    },
+    {
+      "Number": "92129",
+      "id": 574
+    },
+    {
+      "Number": "92136",
+      "id": 575
+    },
+    {
+      "Number": "92143",
+      "id": 576
+    },
+    {
+      "Number": "92144",
+      "id": 577
+    },
+    {
+      "Number": "92150",
+      "id": 578
+    },
+    {
+      "Number": "92165",
+      "id": 579
+    },
+    {
+      "Number": "92168",
+      "id": 580
+    },
+    {
+      "Number": "92176",
+      "id": 581
+    },
+    {
+      "Number": "92183",
+      "id": 582
+    },
+    {
+      "Number": "92180",
+      "id": 583
+    },
+    {
+      "Number": "92186",
+      "id": 584
+    },
+    {
+      "Number": "92200",
+      "id": 585
+    },
+    {
+      "Number": "92203",
+      "id": 586
+    },
+    {
+      "Number": "92205",
+      "id": 587
+    },
+    {
+      "Number": "92214",
+      "id": 588
+    },
+    {
+      "Number": "92218",
+      "id": 589
+    },
+    {
+      "Number": "92220",
+      "id": 590
+    },
+    {
+      "Number": "92226",
+      "id": 591
+    },
+    {
+      "Number": "92229",
+      "id": 592
+    },
+    {
+      "Number": "92232",
+      "id": 593
+    },
+    {
+      "Number": "92236",
+      "id": 594
+    },
+    {
+      "Number": "92240",
+      "id": 595
+    },
+    {
+      "Number": "92242",
+      "id": 596
+    },
+    {
+      "Number": "92252",
+      "id": 597
+    },
+    {
+      "Number": "92256",
+      "id": 598
+    },
+    {
+      "Number": "92262",
+      "id": 599
+    },
+    {
+      "Number": "92266",
+      "id": 600
+    },
+    {
+      "Number": "92271",
+      "id": 601
+    },
+    {
+      "Number": "92276",
+      "id": 602
+    },
+    {
+      "Number": "92279",
+      "id": 603
+    },
+    {
+      "Number": "92284",
+      "id": 604
+    },
+    {
+      "Number": "92286",
+      "id": 605
+    },
+    {
+      "Number": "92289",
+      "id": 606
+    },
+    {
+      "Number": "92299",
+      "id": 607
+    },
+    {
+      "Number": "92298",
+      "id": 608
+    },
+    {
+      "Number": "92301",
+      "id": 609
+    },
+    {
+      "Number": "92305",
+      "id": 610
+    },
+    {
+      "Number": "92310",
+      "id": 611
+    },
+    {
+      "Number": "92314",
+      "id": 612
+    },
+    {
+      "Number": "92333",
+      "id": 613
+    },
+    {
+      "Number": "92335",
+      "id": 614
+    },
+    {
+      "Number": "92338",
+      "id": 615
+    },
+    {
+      "Number": "92340",
+      "id": 616
+    },
+    {
+      "Number": "92344",
+      "id": 617
+    },
+    {
+      "Number": "92345",
+      "id": 618
+    },
+    {
+      "Number": "92349",
+      "id": 619
+    },
+    {
+      "Number": "92351",
+      "id": 620
+    },
+    {
+      "Number": "92352",
+      "id": 621
+    },
+    {
+      "Number": "92357",
+      "id": 622
+    },
+    {
+      "Number": "92363",
+      "id": 623
+    },
+    {
+      "Number": "92356",
+      "id": 624
+    },
+    {
+      "Number": "92369",
+      "id": 625
+    },
+    {
+      "Number": "92374",
+      "id": 626
+    },
+    {
+      "Number": "92377",
+      "id": 627
+    },
+    {
+      "Number": "92391",
+      "id": 628
+    },
+    {
+      "Number": "92409",
+      "id": 629
+    },
+    {
+      "Number": "92411",
+      "id": 630
+    },
+    {
+      "Number": "92416",
+      "id": 631
+    },
+    {
+      "Number": "92421",
+      "id": 632
+    },
+    {
+      "Number": "92423",
+      "id": 633
+    },
+    {
+      "Number": "92427",
+      "id": 634
+    },
+    {
+      "Number": "92430",
+      "id": 635
+    },
+    {
+      "Number": "92441",
+      "id": 636
+    },
+    {
+      "Number": "92445",
+      "id": 637
+    },
+    {
+      "Number": "92450",
+      "id": 638
+    },
+    {
+      "Number": "92454",
+      "id": 639
+    },
+    {
+      "Number": "92457",
+      "id": 640
+    },
+    {
+      "Number": "92462",
+      "id": 641
+    },
+    {
+      "Number": "92473",
+      "id": 642
+    },
+    {
+      "Number": "92479",
+      "id": 643
+    },
+    {
+      "Number": "92481",
+      "id": 644
+    },
+    {
+      "Number": "92483",
+      "id": 645
+    },
+    {
+      "Number": "92486",
+      "id": 646
+    },
+    {
+      "Number": "92489",
+      "id": 647
+    },
+    {
+      "Number": "92492",
+      "id": 648
+    },
+    {
+      "Number": "92494",
+      "id": 649
+    },
+    {
+      "Number": "92504",
+      "id": 650
+    },
+    {
+      "Number": "92508",
+      "id": 651
+    },
+    {
+      "Number": "92510",
+      "id": 652
+    },
+    {
+      "Number": "92516",
+      "id": 653
+    },
+    {
+      "Number": "92518",
+      "id": 654
+    },
+    {
+      "Number": "92522",
+      "id": 655
+    },
+    {
+      "Number": "92526",
+      "id": 656
+    },
+    {
+      "Number": "92530",
+      "id": 657
+    },
+    {
+      "Number": "92534",
+      "id": 658
+    },
+    {
+      "Number": "92546",
+      "id": 659
+    },
+    {
+      "Number": "92548",
+      "id": 660
+    },
+    {
+      "Number": "92547",
+      "id": 661
+    },
+    {
+      "Number": "92552",
+      "id": 662
+    },
+    {
+      "Number": "92558",
+      "id": 663
+    },
+    {
+      "Number": "92559",
+      "id": 664
+    },
+    {
+      "Number": "92561",
+      "id": 665
+    },
+    {
+      "Number": "92567",
+      "id": 666
+    },
+    {
+      "Number": "92571",
+      "id": 667
+    },
+    {
+      "Number": "92575",
+      "id": 668
+    },
+    {
+      "Number": "92578",
+      "id": 669
+    },
+    {
+      "Number": "92584",
+      "id": 670
+    },
+    {
+      "Number": "92586",
+      "id": 671
+    },
+    {
+      "Number": "92592",
+      "id": 672
+    },
+    {
+      "Number": "92594",
+      "id": 673
+    },
+    {
+      "Number": "92603",
+      "id": 674
+    },
+    {
+      "Number": "92619",
+      "id": 675
+    },
+    {
+      "Number": "92621",
+      "id": 676
+    },
+    {
+      "Number": "92623",
+      "id": 677
+    },
+    {
+      "Number": "92632",
+      "id": 678
+    },
+    {
+      "Number": "92634",
+      "id": 679
+    },
+    {
+      "Number": "92620",
+      "id": 680
+    },
+    {
+      "Number": "92637",
+      "id": 681
+    },
+    {
+      "Number": "92648",
+      "id": 682
+    },
+    {
+      "Number": "92654",
+      "id": 683
+    },
+    {
+      "Number": "92658",
+      "id": 684
+    },
+    {
+      "Number": "92671",
+      "id": 685
+    },
+    {
+      "Number": "92675",
+      "id": 686
+    }
+  ]
+}

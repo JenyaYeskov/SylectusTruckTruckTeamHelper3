@@ -1,0 +1,31 @@
+{
+  "name": "truckteamhelper3",
+  "version": "3.0.0",
+  "description": "",
+  "main": "background.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-generator": "^4.16.1",
+    "fetch": "^1.1.0",
+    "jsdom": "^16.0.1",
+    "json-server": "^0.15.1",
+    "moment": "^2.24.0",
+    "mongodb": "^3.4.1",
+    "mz": "^2.7.0",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.41.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack -p",
+    "watch": "webpack --watch",
+    "start": "concurrently \"json-server -p 3003 db.json\" \"node finalStage.js\"",
+    "qwe": "node finalStage.js",
+    "qwe2": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
